@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1417467973771314}
+  m_IsPrefabParent: 1
+--- !u!1 &1417467973771314
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 4942188909409169}
+  - 114: {fileID: 114665187718835467}
+  m_Layer: 0
+  m_Name: Assets4_Sounds
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4942188909409169
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1417467973771314}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.17871094, y: -0.06877025, z: 0.37884718}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114665187718835467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1417467973771314}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ea2b4d8a810959f3a732983fb3e644c4, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  teleportSound: {fileID: 1849852731735803, guid: 9a808888ee308394b86bac4851436999, type: 2}
+  soundGetItem: {fileID: 1966982026281886, guid: 07a575cfa5ee22749b79ada7714df0d1, type: 2}
+  soundGroundBullet:
+  - {fileID: 1789826735574126, guid: 78235f20e81aca84b876b4f241b5d946, type: 2}
+  - {fileID: 1616161526743632, guid: a26b22235d7c40449bca08925017d87c, type: 2}
+  - {fileID: 1342117674835758, guid: ccd7d5700c7cdfc44aa95258e0be04c9, type: 2}
+  - {fileID: 1308393310857731, guid: dbaf85ec3cb322d4aa13732ff623d68d, type: 2}
+  soundWoodBullet:
+  - {fileID: 1085053331838382, guid: 93e32ffc54afe924b889a4ab2a69a4cb, type: 2}
+  - {fileID: 1844071583201270, guid: 17f6cf7fe5c62db4b9dd36d132073162, type: 2}
+  - {fileID: 1526799831622279, guid: 5f78029835cd8fd43b593700277d6378, type: 2}
+  - {fileID: 1915741697998396, guid: b6d025d050dcbe34ca9dc538aeb237cc, type: 2}
+  soundMetalBullet:
+  - {fileID: 1380865850003803, guid: fb53c97bdd21b294b952adde151e40d8, type: 2}
+  - {fileID: 1236375169843534, guid: de2d99532e60a974aaac0cd4ef16cbb4, type: 2}
+  - {fileID: 1451136932744297, guid: 0f612c4e148c3934eaaab67434294f51, type: 2}
+  soundStoneBullet:
+  - {fileID: 1305307622451801, guid: 5ce2748572bf6a440a42bc26a03a097a, type: 2}
+  - {fileID: 1068476881447712, guid: ca85155eadb99124f8ba1cb567025347, type: 2}
+  - {fileID: 1301707690707445, guid: 63cf095eb92edc34daaa70cad6ee35ba, type: 2}
+  - {fileID: 1848036752496340, guid: 872675f5df8fc0e4dbada30c721f725f, type: 2}
+  soundGlassBullet:
+  - {fileID: 1484622599529520, guid: 4250bdb6270c64b4eb00e1e65df4853f, type: 2}
+  - {fileID: 1368942671795180, guid: ba358b11aeda6164fa26da0c615d7064, type: 2}
+  - {fileID: 1704778702417297, guid: edf3ae27e26356347a74c060e67442f0, type: 2}
+  soundWaterBullet:
+  - {fileID: 1838656301100524, guid: 384707cbd9b7a4b4d9d4bbe8b478d101, type: 2}
+  - {fileID: 1545126207160095, guid: 88bd5b430bfa8e04abef6e3b84d7a561, type: 2}
+  - {fileID: 1604215537569044, guid: df010ccb11e75cd4c85ea2e8fdeebd0b, type: 2}
+  soundGroundAxe: []
+  soundWoodAxe: []
+  soundMetalAxe: []
+  soundStoneAxe: []
+  soundGlassAxe: []
+  soundWaterAxe: []
+  soundGroundFootsteps:
+  - {fileID: 1159438412768913, guid: 6130b5bb4145a484284dee91c3c8f3f2, type: 2}
+  - {fileID: 1810702275427429, guid: f7242648382a7484c9bc1d8b105f1288, type: 2}
+  - {fileID: 1644942095035162, guid: 7918ac5a63b03634ba4520bc0f3e789a, type: 2}
+  - {fileID: 1906456982420839, guid: abf54d62438004f4d9360c61bd2e88b0, type: 2}
+  soundWoodFootsteps:
+  - {fileID: 1804205992159305, guid: 17bd139398f2c934586585d14d4fcec3, type: 2}
+  - {fileID: 1597771833932741, guid: 4592c8eee435e6d4d88b49da419e45a5, type: 2}
+  - {fileID: 1576435630619699, guid: 9a27d1a9b1af8174c98739f92b2c6307, type: 2}
+  - {fileID: 1617120204961938, guid: 69386ba96c3466140a8c59a3cc1b9c3b, type: 2}
+  soundMetalFootsteps:
+  - {fileID: 1111232059629670, guid: c510349cf49465847a6fa9ca32c30395, type: 2}
+  - {fileID: 1445969195914580, guid: b3a325e886e0c924cab8cbb27be7b672, type: 2}
+  - {fileID: 1085250649617165, guid: 27a8e01b7daf7a8429709b599f2254b2, type: 2}
+  - {fileID: 1404556682232754, guid: 8185fef850a60084d8879a7cbccc1ac3, type: 2}
+  soundStoneFootsteps:
+  - {fileID: 1593700437536786, guid: 9a4f06255e50b454caf2c2ae8db5607c, type: 2}
+  - {fileID: 1162949411431319, guid: 7e509bb799b5db844bb96dc89a4bb2aa, type: 2}
+  - {fileID: 1095267551581873, guid: f36d895a4aa282749826304ca3b632b8, type: 2}
+  - {fileID: 1945355645977558, guid: a38b8c114691f344088959d434a51898, type: 2}
+  soundGlassFootsteps:
+  - {fileID: 1400711025156034, guid: 31c55c7b35034274db5d9017577ee1b7, type: 2}
+  - {fileID: 1184410915829886, guid: b5a211c185d996244aa3ae5cb5eef03f, type: 2}
+  - {fileID: 1123890082574116, guid: 052a9afdbc026654f93e1f6165525be7, type: 2}
+  - {fileID: 1175800060732172, guid: c278528fc44ec5b4694456db00cc634a, type: 2}
+  soundWaterFootsteps:
+  - {fileID: 1286978571015434, guid: 615a0568780a80f40abaf4c0fb0896ca, type: 2}
+  - {fileID: 1831092567530796, guid: 61c58bae08987454092609617ff3a646, type: 2}
+  - {fileID: 1511093861996784, guid: 0260fffb32b65e7498ec88f93d9ca1f9, type: 2}
+  - {fileID: 1088797634284570, guid: b4ba049a038f1844e8e164c6586487e0, type: 2}
+  soundGroundBreak:
+  - {fileID: 1592875812097512, guid: c3216b441d9a44045b0acca82cfe8a2e, type: 2}
+  - {fileID: 1814532246714427, guid: 18c47b5c463fff4449b78c5668cb6b54, type: 2}
+  soundWoodBreak:
+  - {fileID: 1785330498699377, guid: 52a31f97b5a13064f9521bf10e1554da, type: 2}
+  - {fileID: 1235346087620130, guid: 2d5ef95ade773594da502ec95246e869, type: 2}
+  soundMetalBreak:
+  - {fileID: 1116438229632445, guid: 4e8f66d4e7b464945907c3756ab91b5d, type: 2}
+  - {fileID: 1217597183156509, guid: 7f3da1ef5c8b3804cb29b841b406e760, type: 2}
+  soundStoneBreak:
+  - {fileID: 1592875812097512, guid: c3216b441d9a44045b0acca82cfe8a2e, type: 2}
+  - {fileID: 1814532246714427, guid: 18c47b5c463fff4449b78c5668cb6b54, type: 2}
+  soundGlassBreak:
+  - {fileID: 1307617997843878, guid: b37dd47bbeeea6c499ed73f9908725ba, type: 2}
+  - {fileID: 1737689848659411, guid: b74fc902ef60b4440b21d7bf47e99c31, type: 2}
+  - {fileID: 1829508415592050, guid: 498f3363b6b6f934eb2dc450b38d7511, type: 2}
+  soundWaterBreak:
+  - {fileID: 1286978571015434, guid: 615a0568780a80f40abaf4c0fb0896ca, type: 2}
+  - {fileID: 1831092567530796, guid: 61c58bae08987454092609617ff3a646, type: 2}
+  - {fileID: 1511093861996784, guid: 0260fffb32b65e7498ec88f93d9ca1f9, type: 2}
+  - {fileID: 1088797634284570, guid: b4ba049a038f1844e8e164c6586487e0, type: 2}
+  soundWaterSplash: {fileID: 1538553480502165, guid: 45c88fe2f5b49fe42999a2bf2db9ae1b, type: 2}
+  soundFlagCaptured: {fileID: 1329927591440683, guid: 3776feb77f0fb3a4c86649edc2655765, type: 2}
+  soundFlagAlert: {fileID: 1265885832741425, guid: 71492e40eb4b3ed478e59adebb39afed, type: 2}
+  soundDominating: {fileID: 1501991458870817, guid: 226e55fe6537b4e47b5177962dade41b, type: 2}

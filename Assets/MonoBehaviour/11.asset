@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83e9c15184e0dd62935cecde637fdd9, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier:
+  id: 71
+  t: 3
+  icon: {fileID: 2800000, guid: 8cb6a1ace6a27934181810a1d04a55e6, type: 3}
+  go: {fileID: 1196800753653844, guid: 43ecc5b73b3618d4fa4d32ff884d6906, type: 2}
+  name: Крылья
+  desc:

@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1534313422428713}
+  m_IsPrefabParent: 1
+--- !u!1 &1534313422428713
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 4891961250049869}
+  - 114: {fileID: 114061913320436343}
+  m_Layer: 0
+  m_Name: Assets1_FirstMenu
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4891961250049869
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534313422428713}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.17871094, y: -0.06877025, z: 0.37884718}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114061913320436343
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1534313422428713}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9b6cf68b222a63fff11775faab5a7ca, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  mainSkin: {fileID: 11400000, guid: fa3de89980e1f154984493ffb11071b4, type: 2}
+  mainSkinSmall: {fileID: 11400000, guid: 70d7ac280cbf205478ac5e778af8ceda, type: 2}
+  mainSkinWhite: {fileID: 11400000, guid: fdb7375e3fe9868408e8838584b10f25, type: 2}
+  mainSkinYellow: {fileID: 11400000, guid: 082f99106edd0d746b3c2316ae10ac46, type: 2}
+  emptySkin: {fileID: 11400000, guid: 14d32165be48dfd4b8abc960bfe12239, type: 2}
+  mainSkinSmallLeft: {fileID: 11400000, guid: 389c4a6155fb1e949b4a105b048c9ff0, type: 2}
+  mainSkinSmallRight: {fileID: 11400000, guid: f5cbd9c722de8f742a20a989cd06bd34, type: 2}
+  buttonArrowSkin: {fileID: 11400000, guid: cd45335c71baa3b4792b6ada78a90424, type: 2}
+  yellowButton: {fileID: 11400000, guid: 575f0db893acd0d4d9836f4a55cd2db5, type: 2}
+  blueButtonSkin: {fileID: 11400000, guid: c167c43036ab06c4282a87fede2b09fd, type: 2}
+  bigWhiteLabel: {fileID: 11400000, guid: 5e3f1901eaa885b4db701665cc3834d9, type: 2}
+  bigWhiteLabelLeft: {fileID: 11400000, guid: 3336a30103f450643a768565221f449c, type: 2}
+  bigBlackLabel: {fileID: 11400000, guid: 9862a8945dac33a48bef6c015ce3699c, type: 2}
+  smallWhiteSkin: {fileID: 11400000, guid: d4fd5ce54bd12544c8b930718520b3e8, type: 2}
+  smallBlackCenterSkin: {fileID: 11400000, guid: 398cfbf6d567b6744844422ade1cb0bd, type: 2}
+  triggerSkin: {fileID: 11400000, guid: ce0b2455db1653b4b945d2519baf4f22, type: 2}
+  triggerSkinArrowLeft: {fileID: 11400000, guid: eb51be5dfa0bff747a02fe5dca2d637d, type: 2}
+  triggerSkinArrowRight: {fileID: 11400000, guid: 529f2c04129599140b851d47cdb83d16, type: 2}
+  sharedUIAssets:
+    skin: {fileID: 11400000, guid: bcab41739f2c2984a9461dbd782b6c0e, type: 2}
+    dialogBg: {fileID: 2800000, guid: 1787b71db2eae684b86c1b3f57aa6414, type: 3}
+    money: {fileID: 2800000, guid: 7ddb4cb42b6a56d4680e6ff06140bb7a, type: 3}
+    gold: {fileID: 2800000, guid: a055c18e8482c974d87a00b3504f5709, type: 3}
+    xp: {fileID: 2800000, guid: 244fd6a4bcf1bcf4191a7f714190f195, type: 3}
+    x2: {fileID: 2800000, guid: e1aa287979f6be949b72460e721d59a1, type: 3}
+  menuLogo:
+  - {fileID: 2800000, guid: f13aa846591b7c54388690bb2338a5e9, type: 3}
+  - {fileID: 2800000, guid: e17ca030e31dc6f4f8191da683d9ccfc, type: 3}
+  menuBack: {fileID: 2800000, guid: 67a0ecdc63cc14c4ba6991455ddeb048, type: 3}
+  menuFrame: {fileID: 2800000, guid: 4415ec6289374e344868291866921564, type: 3}
+  tabTex: {fileID: 2800000, guid: 61889c0c5615b5a4aac7fed8f30f7030, type: 3}
+  tabLightTex: {fileID: 2800000, guid: 0293c8198d72e6f4e8a758b13494d389, type: 3}
+  buyForMoney: {fileID: 2800000, guid: f9bd703b1753a324f8616859cf6e3e3a, type: 3}
+  buyForGold: {fileID: 2800000, guid: 35db2e23c304ca443964a9bd13baf3f3, type: 3}
+  playerMoneyTex: {fileID: 2800000, guid: 57e73244ef0a91f43a0c171bb388ea98, type: 3}
+  playerGoldTex: {fileID: 2800000, guid: 3b9bc86883f058941b58cb6d1dfb8654, type: 3}
+  levelLine: {fileID: 2800000, guid: 886cfd76b2891c34096a9e3d0586f590, type: 3}
+  levelProgress: {fileID: 2800000, guid: 7b51ce18b3e04074589e4977d23e0c17, type: 3}
+  levelStar: {fileID: 2800000, guid: 54c7b64ca9e9f9f428ba701fcdffeffa, type: 3}
+  dayLightTex:
+  - {fileID: 2800000, guid: 14ecfbad1eb2abe4fa732728d0bf67e2, type: 3}
+  - {fileID: 2800000, guid: a21ac4570980ceb45928f9c4a419c215, type: 3}
+  - {fileID: 2800000, guid: 5255cc8127c55ca44b6e7a9153cb7837, type: 3}
+  inventoryTex: {fileID: 2800000, guid: 3e14b0d2c91b4834b93013557ecf5539, type: 3}
+  anticheatPict: {fileID: 2800000, guid: 96a096a8974b56143b7719712bc6de64, type: 3}
+  netBattleWindow: {fileID: 2800000, guid: ee335deadc413c1459c2350ebf0b4913, type: 3}
+  newMapTypeTex:
+  - {fileID: 2800000, guid: b054b0d2f8f3afd419671c3319d67525, type: 3}
+  - {fileID: 2800000, guid: c0be82ff47ad49e4f93acef1104ef4b4, type: 3}
+  - {fileID: 2800000, guid: 714e1062b7d74a147beb54c67814b549, type: 3}
+  - {fileID: 2800000, guid: 7768323d19ced5042b752426a9b03a4c, type: 3}
+  - {fileID: 2800000, guid: 0e7b9ced0baf89b4db111dfcb5da909a, type: 3}
+  - {fileID: 2800000, guid: 714e1062b7d74a147beb54c67814b549, type: 3}
+  - {fileID: 2800000, guid: eb6c91cf74d06d84484758d9ee92b814, type: 3}
+  - {fileID: 2800000, guid: f19f0c36db87514429628e00d3b13743, type: 3}
+  - {fileID: 2800000, guid: 876ba7fd0e6fe9f4f91a45fa8bd19a70, type: 3}
+  - {fileID: 2800000, guid: 9818c889481696a46951a5ee135875e3, type: 3}
+  lockGameTex: {fileID: 2800000, guid: fd1e153a69b9b1148ab032183360c0ca, type: 3}
+  inventorySideTex: {fileID: 2800000, guid: 8a38e1bb0afe41a4785f173a8a65feeb, type: 3}

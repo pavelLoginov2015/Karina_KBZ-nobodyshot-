@@ -1,0 +1,137 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: charGun1face
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: -0.7064504, z: 0, w: 0.70776254}
+        inSlope: {x: -1.5332562, y: 0.027526615, z: 1.5304111, w: -0.027801989}
+        outSlope: {x: -1.5332562, y: 0.027526615, z: 1.5304111, w: -0.027801989}
+        tangentMode: 0
+      - time: 0.050000004
+        value: {x: -0.054272138, y: -0.70437026, z: 0.05417113, w: 0.7056789}
+        inSlope: {x: -0.47839305, y: 0.03596306, z: 0.4775001, w: -0.035887957}
+        outSlope: {x: -0.47839305, y: 0.03596306, z: 0.4775001, w: -0.035887957}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: -0.017917491, y: -0.7062239, z: 0.017884376, w: 0.7075358}
+        inSlope: {x: 0.1284443, y: -0.0034296606, z: -0.1282058, w: 0.003458271}
+        outSlope: {x: 0.1284443, y: -0.0034296606, z: -0.1282058, w: 0.003458271}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj/Автомат
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.36104614, y: -0.1932404, z: 0.8221638}
+        inSlope: {x: 0, y: 0.72937125, z: -2.5560002}
+        outSlope: {x: 0, y: 0.72937125, z: -2.5560002}
+        tangentMode: 0
+      - time: 0.033333335
+        value: {x: 0.36104614, y: -0.16892803, z: 0.7369638}
+        inSlope: {x: 0, y: 0.32456565, z: -1.1362731}
+        outSlope: {x: 0, y: 0.32456565, z: -1.1362731}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 0.36104614, y: -0.193, z: 0.822}
+        inSlope: {x: 0, y: -0.08023992, z: 0.28345406}
+        outSlope: {x: 0, y: -0.08023992, z: 0.28345406}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 2.280697E-39, y: 0, z: 0}
+        outSlope: {x: 2.280697E-39, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj/Автомат
+  m_ScaleCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.033333335
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 1, y: 1, z: 1}
+        inSlope: {x: 0, y: 0, z: 2.280697E-39}
+        outSlope: {x: 0, y: 0, z: 2.280697E-39}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj/Автомат
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 60
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

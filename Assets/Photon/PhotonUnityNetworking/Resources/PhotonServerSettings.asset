@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: 23373ed3-f2fc-4fef-a0d8-8d331ae28222
+    AppIdFusion: 
+    AppIdChat: 
+    AppIdVoice: 89a6d1d0-88c1-43bb-83ad-4b9a08e86929
+    AppVersion: 
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: ru
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - CantHearYou
+  - ChangeColour
+  - ClickRpc
+  - DestroyRpc
+  - HeresWhy
+  - _ApplyDamage
+  - _BuildMapTest
+  - _Captured
+  - _ChatMessage
+  - _CreateGameItem
+  - _CreateShot
+  - _DamageRecieved
+  - _Die
+  - _DoorOpen
+  - _FlagState
+  - _GenerateNewPlayer
+  - _MapGetOwner
+  - _PlaceNewCube
+  - _PlayActivity
+  - _RemoveGameItem
+  - _Respawn
+  - _SetParamsNew
+  - _SkinMy
+  - _SwitchWeapon
+  - _SynchronizeAll
+  - _SynchronizePlayer
+  - _TeamSync
+  - _Teleportation
+  - _TimeSync
+  - _WaweSync
+  - CreateRechargeSound
+  - JetpackAllout
+  - JetpackPlay
+  - MonsterStart
+  - OpenDoor
+  - PrimAtack
+  - _ApplyFlash
+  - _BanPlayer
+  - _ChangeCanBuildStatus
+  - _ChangeCubes
+  - _ChangeCubesHealth
+  - _ChangeDominatingPointState
+  - _ChangeFlagState
+  - _ChangeItemState
+  - _ChangePlace
+  - _ChangeTeamScore
+  - _CreateCanonShot
+  - _CreateEmptyClipEvent
+  - _CreateGameMagic
+  - _CreateGunShot
+  - _CreateHit
+  - _CreateNewAA
+  - _CreateNewWire
+  - _CreateRechargeSound
+  - _CreateShot2
+  - _DeleteAA
+  - _DeleteWire
+  - _DoExplosion
+  - _DoRestartInf
+  - _EnterGame
+  - _ExitDrive
+  - _Explode
+  - _FireGun
+  - _FlagCaptured
+  - _Freeze
+  - _GetInTransport
+  - _GiveLotOfDrop
+  - _HereAreMyParams
+  - _InfectedPlayerToZombie
+  - _MonsterAlifeYet
+  - _MonsterDead
+  - _MoveItem
+  - _NS
+  - _NS0
+  - _NS1
+  - _OrderToCreateMonster
+  - _PlayerDressSkin
+  - _RequestToRespawnTransport
+  - _RequestToRestartShooter
+  - _RequestToRestartTeamShooter
+  - _ReversInfect
+  - _RotateGameItem
+  - _SaveMapItem
+  - _SaveMonsterRespawn
+  - _SaveTransportRespawn
+  - _SaveTrigger
+  - _SaveWire
+  - _SendGameParams_Infection
+  - _SendGameParams_Shooter
+  - _SendGameParams_Survival
+  - _SendGameParams_Teams
+  - _SendMeGameParams
+  - _SendMeParams
+  - _SendMissionParams
+  - _SendMyParams
+  - _SendNoPlaceToDrive
+  - _SendSurvivalParams
+  - _SetAAParameters
+  - _SetSurvivalModeReady
+  - _StartExplosion
+  - _Startle
+  - _SurvivalStartNewWave
+  - _SynhronizePlayer
+  - _SynhronizePlayers
+  - _Teleport
+  - _Throw
+  - _ToggleTestMission
+  - _TransportAlifeYet
+  - _TransportDead
+  - _TryChangePlace
+  - _TryToDrive
+  - _UnFreeze
+  - _WinGame
+  - MapFromMaster
+  - SendMeMap
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

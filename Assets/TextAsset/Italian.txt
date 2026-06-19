@@ -1,0 +1,1352 @@
+Italian
+init_nickname;Inserire un nome di carattere:
+common_connect;Connessione al server di gioco. Si prega di attendere ...
+common_cancel;annullare
+mission_gift;ricompensa:
+mission_done;Livello completo!
+mission_nobonus;Si riceve solo oro e oggetti di gioco la prima volta che si chiaro ogni dato livello.
+game_fail;Non ci sono sopravvissuti!
+dialog_play;giocare
+dialog_back;indietro
+dialog_ok;bene
+postonwall;quota
+episode1;l'inizio
+episode2;Meat Grinder
+episode3;Walking Dead
+episode_name;Episodio {0}
+mm_missions;missioni
+mm_maps;Le mie mappe
+mm_online;Battaglia online
+mm_shop;Inventario (C)
+mm_bank;banca
+mm_options;Opzioni di gioco (O)
+mm_invite;Invita i tuoi amici!
+c_slot;mappa
+c_new_slot;nuova Slot
+c_buy_slot_gold;Non si dispone di abbastanza oro per acquistare questo slot:
+map_loading_data;Caricamento mappa dei dati ...
+low_gold;--- Non abbastanza oro. ---
+c_map_title;nome Mappa
+c_map_id;Mappa ID:
+c_play_alone;Non disturbare! \ N (nessuno si recherà alla mappa)
+c_light_type;Tipo chiaro: \ n
+c_map_choseMap;Seleziona una delle tue mappe dalla lista a sinistra.
+c_map_help;È possibile costruire le mappe da soli o con gli amici e poi giocare su di loro on-line!
+common_connect_game;Collegamento al gioco. Si prega di attendere ...
+password;password
+do_load;CARICO
+regenerate;Generare Nuova mappa
+ys_regenerate;La mappa corrente verrà perso! \ NSei sicuro di voler creare una nuova?
+no;NO
+yes;sì
+ok;bene
+map_slot_empty;Nessuna mappa creato ancora \ nSelezionare un tipo per una nuova mappa .:
+create_game;CREATE
+dialog_cancel;annullare
+online_server_type;SELECT Server TIPO:
+players_on_server;{0} giocatori stanno giocando su server corrispondenti a questi parametri
+connect_game;COLLEGARE AL SERVER!
+onl_type;tipo:
+onl_map;Mappa:
+onl_light;Luce:
+onl_break;distruzione:
+onl_input_password;Password di accesso:
+onl_friends;GIOCHI I miei amici sono che giocano in questo momento:
+onl_empty_rooms;Senza amici stanno giocando.
+onl_unknown_map;sconosciuto
+onl_mission_desc;Episodio {0}, {1} Mission
+onl_players_online;Online: {0}
+daily_bonus;BONUS
+daily_desc;Gioca il gioco ogni giorno per ottenere parte di un arma segreta!
+daily_tip;Raccogliere tutte le 4 parti per ottenere il {0}
+take_bonus;raccogliere bonus
+dont_cheat;Non sarò mai barare di nuovo!
+special_bonus;BONUS SPECIALE!
+is_one_day;1 giorno
+is_one_week;7 giorni
+is_one_mounth;30 giorni
+is_two_weeks;2 settimane
+is_unlimit;per sempre
+no_money;Non abbastanza soldi:
+is_reload;R - Ricarica
+is_time_left;Tempo rimanente:
+is_days_left;0 giorni
+is_hours_left;{0} {1} ore minuti
+is_max;Capacità Max
+is_min_level_to_buy;Per aumentare, è necessario:
+is_ammo_info;Questo set proiettile sarà dato fuori ogni battaglia.
+is_initial_ammo;capacità iniziale:
+is_tabs[0];Blocchi
+is_tabs[1];articoli
+is_tabs[2];meccanismi
+is_tabs[3];respawn
+is_tabs[4];Armi
+is_tabs[5];carattere
+is_tabs[6];banca
+BonusTypeStr[0];salute
+BonusTypeStr[1];armatura
+BonusTypeStr[2];velocità
+BonusTypeStr[3];saltare
+BonusTypeStr[4];resistenza
+vip_info;Ottenere lo status di VIP per ottenere: \ n1. + {0} esperienze% e denaro per ogni livello! \ N2. Sbloccato vocale in-game chat! \ N3. Due stelle aggiunto a tutti i tuoi statistiche! \ N4. Respawn 30 secondi dopo la morte quando si sta giocando in modalità di sopravvivenza!
+is_weapon_power;Potenza:
+is_cash;contanti:
+is_gold;oro:
+is_upgrade;Aggiornamento -
+is_weapon_ammo_has;Disponibile:
+is_weapon_ammo_buy;"Buy"
+is_need_more;più richiesti
+is_buy_for;Acquista per
+player_level;livello:
+player_rank;Livello attuale:
+player_kills;uccisioni:
+xp_next;XP fino al livello successivo
+is_nick;nome:
+is_no_bonus;Nessun bonus
+is_no_item;niente
+mission_developing;Mission ancora in sviluppo
+mission_closed;Cancellare la missione precedente con 3 stelle di prima.
+episode_developing;Episodio ancora in sviluppo
+MissionType[0];<Vuoto>
+MissionType[1];Trovare una via d'uscita
+MissionType[2];Tenere fuori per {0}
+MissionType[3];Uccidi {0} {1}
+MissionType[4];Trova il {0}
+MissionType[5];Trova il {0} a {1}
+MissionType[6];Uccidi {0} {1} {2}
+CubesTypes[0];natura
+CubesTypes[1];costruzione
+CubesTypes[2];decorativo
+CubesTypes[3];vetro
+CubesTypes[4];acqua
+CubesTypes[5];metallo
+DecorTypes[0];luce
+DecorTypes[1];mobili
+DecorTypes[2];porte
+DecorTypes[3];Scale
+DecorTypes[4];fiori
+DecorTypes[5];arredamento
+DecorTypes[6];respawn
+DecorTypes[7];strade
+DecorTypes[8];Armi
+DecorTypes[9];mostri
+ItemsTypes[0];costruzione
+ItemsTypes[1];speciale
+ItemsTypes[2];combattimento
+ItemsTypes[3];movimento
+WeaponTypes[0];Armi
+WeaponTypes[1];Munizioni
+CharacterPages[0];sommario
+CharacterPages[1];abbigliamento
+CharacterPages[2];parametri
+CharacterPages[3];VIP
+DeviceTypes[0];Interruttori \ Fili NAND
+DeviceTypes[1];Porte, ascensori, piattaforme \ NAND
+DeviceTypes[2];veicoli
+ClothesType[0];pelle
+ClothesType[1];testa
+ClothesType[2];torso
+ClothesType[3];indietro
+ClothesType[4];stemma
+ClothesType[5];gambe
+ClothesType[6];spalle
+monsterName[0];zombie
+monsterName[1];agente
+monsterName[2];Zombie Soldier
+monsterName[3];Zombie Miner
+monsterName[4];demone
+monsterName[5];fresa
+monsterName[6];Dead-Man
+monsterName[7];Bot 0x1
+monsterName[8];Bot 0x2
+AAnames[0];Porta verticale
+AAnames[1];Porta orizzontale
+AAnames[2];ascensore
+AAnames[3];campo di Energia
+triggerTypeName[0];Interruttore (on / off)
+triggerTypeName[1];Attiva (Open)
+triggerTypeName[2];Spegni (Chiudi)
+triggerTypeName[3];Teleport
+triggerTypeName[4];uscita
+triggerConditionActivateName[0];Player vicina
+triggerConditionActivateName[1];Player premuto
+triggerConditionActivateName[2];danno ricevuto
+triggerNeedKeyName[0];Red Key
+triggerNeedKeyName[1];green Key
+triggerNeedKeyName[2];blue Key
+triggerNeedKeyName[3];chiave d'oro
+gameItemsNames[0];torcia
+gameItemsNames[1];K Passo
+gameItemsNames[2];D Passo
+gameItemsNames[3];lettera
+gameItemsNames[4];porta
+gameItemsNames[5];Porta in acciaio
+gameItemsNames[6];Porta Steel 2
+gameItemsNames[7];Double Door di legno
+gameItemsNames[8];Double Door acciaio
+gameItemsNames[9];gate
+gameItemsNames[10];lampada
+gameItemsNames[11];lampadario
+gameItemsNames[12];Red Ball
+gameItemsNames[13];green Ball
+gameItemsNames[14];blue Ball
+gameItemsNames[15];barile
+gameItemsNames[16];botte di ferro
+gameItemsNames[17];Botte di ferro 2
+gameItemsNames[18];grave
+gameItemsNames[19];recinto
+gameItemsNames[20];recinzione
+gameItemsNames[21];Allegato 2
+gameItemsNames[22];immagine
+gameItemsNames[23];immagine 2
+gameItemsNames[24];panca
+gameItemsNames[25];Bench 2
+gameItemsNames[26];funghi
+gameItemsNames[27];felce
+gameItemsNames[28];camomilla
+gameItemsNames[29];erba
+gameItemsNames[30];fiori
+gameItemsNames[31];Tabella 1
+gameItemsNames[32];Tabella 2
+gameItemsNames[33];sedia
+gameItemsNames[34];petto
+gameItemsNames[35];torcia
+gameItemsNames[36];Block Lamp (bianco)
+gameItemsNames[37];Block Lamp (blu)
+gameItemsNames[38];Block Lamp (verde)
+gameItemsNames[39];respawn
+gameItemsNames[40];Red Respawn
+gameItemsNames[41];Blu Respawn
+gameItemsNames[42];verde Respawn
+gameItemsNames[43];L'oro Respawn
+gameItemsNames[44];proiettile Respawn
+gameItemsNames[45];cartuccia Respawn
+gameItemsNames[46];Rocket Respawn
+gameItemsNames[47];Energia Respawn
+gameItemsNames[48];medkit Respawn
+gameItemsNames[49];armatura Respawn
+gameItemsNames[50];pistola Respawn
+gameItemsNames[51];Sawed-off Respawn
+gameItemsNames[52];Uzi Respawn
+gameItemsNames[53];Mitraglietta Respawn
+gameItemsNames[54];Lanciagranate Respawn
+gameItemsNames[55];Anti-Tank Respawn
+gameItemsNames[56];Zombie Respawn
+gameItemsNames[57];pulsante
+gameItemsNames[58];leva
+gameItemsNames[59];leva parete
+gameItemsNames[60];Teleport
+gameItemsNames[61];interruttore invisibile
+gameItemsNames[62];Zombie Respawn
+gameItemsNames[63];Agente Respawn
+gameItemsNames[64];soldato Respawn
+gameItemsNames[65];Miner Respawn
+gameItemsNames[66];Demone Respawn
+gameItemsNames[67];Oggetto nascosto
+gameItemsNames[68];Block Lamp (giallo)
+gameItemsNames[69];Block Lamp (rosso)
+gameItemsNames[70];letto
+gameItemsNames[71];scaletta in acciaio
+gameItemsNames[72];corda
+gameItemsNames[73];Passi in acciaio
+gameItemsNames[74];abete
+gameItemsNames[75];abete neve
+gameItemsNames[76];grande abete
+gameItemsNames[77];ATV Respawn
+gameItemsNames[78];3x1 Springboard
+gameItemsNames[79];3x2 Springboard
+gameItemsNames[80];3x3 Springboard
+gameItemsNames[81];Machine-gun Respawn
+gameItemsNames[82];Banshee Respawn
+gameItemsNames[98];Blinding granata
+gameItemsNames[99];pacchetto di esplosione
+gameItemsNames[100];green Tree
+gameItemsNames[101];blue Tree
+gameItemsNames[102];Autumn Tree
+gameItemsNames[103];Crescere un muro
+gameItemsNames[104];Medikit e Armature
+gameItemsNames[106];proiettile Set
+gameItemsNames[107];dinamite
+gameItemsNames[108];miniera
+gameItemsNames[109];Acqua della Vita
+gameItemsNames[110];Porta verticale
+gameItemsNames[111];Porta orizzontale
+gameItemsNames[112];mine Shaft
+gameItemsNames[113];campo di Energia
+gameItemsNames[114];proiettile clip
+gameItemsNames[115];cartuccia clip
+gameItemsNames[116];filo
+gameItemsNames[117];Rocket clip
+gameItemsNames[118];Energia clip
+gameItemsNames[119];Ammo Mega
+gameItemsDesc[0];Luci luoghi bui
+gameItemsDesc[9];Enormi porte del castello
+gameItemsDesc[10];Una luce elettrica a parete
+gameItemsDesc[11];Un lampadario per il soffitto
+gameItemsDesc[12];Splendidamente illumina luoghi bui
+gameItemsDesc[13];Splendidamente illumina luoghi bui
+gameItemsDesc[14];Splendidamente illumina luoghi bui
+gameItemsDesc[35];Una torcia nel terreno che illumina una vasta area
+gameItemsDesc[36];per gli edifici
+gameItemsDesc[37];per gli edifici
+gameItemsDesc[38];per gli edifici
+gameItemsDesc[39];Un respawn per modalità di gioco non-squadra.
+gameItemsDesc[40];Red respawn della squadra
+gameItemsDesc[41];Blue Team respawn
+gameItemsDesc[42];Green Team respawn
+gameItemsDesc[43];L'oro respawn della squadra
+gameItemsDesc[44];Appare in battaglia dopo un certo tempo
+gameItemsDesc[45];Appare in battaglia dopo un certo tempo
+gameItemsDesc[46];Appare in battaglia dopo un certo tempo
+gameItemsDesc[47];Appare in battaglia dopo un certo tempo
+gameItemsDesc[48];Appare in battaglia dopo un certo tempo
+gameItemsDesc[49];Appare in battaglia dopo un certo tempo
+gameItemsDesc[50];Appare in battaglia dopo un certo tempo
+gameItemsDesc[51];Appare in battaglia dopo un certo tempo
+gameItemsDesc[52];Appare in battaglia dopo un certo tempo
+gameItemsDesc[53];Appare in battaglia dopo un certo tempo
+gameItemsDesc[54];Appare in battaglia dopo un certo tempo
+gameItemsDesc[55];Appare in battaglia dopo un certo tempo
+gameItemsDesc[56];I mostri appaiono in modalità Survival
+gameItemsDesc[67];Nascondere i tuoi oggetti. Altri si cercarli!
+gameItemsDesc[68];per gli edifici
+gameItemsDesc[69];per gli edifici
+gameItemsDesc[75];ghirlande illuminate
+gameItemsDesc[76];ghirlande illuminate
+gameItemsDesc[98];Esplosione accecante il nemico
+gameItemsDesc[99];Esplode in un tiro
+gameItemsDesc[100];Cresce un albero verde in modo casuale dimensioni
+gameItemsDesc[101];Cresce un albero blu casuale dimensioni
+gameItemsDesc[102];Cresce un albero di colore arancione in modo casuale dimensioni
+gameItemsDesc[103];Costruisce 4 blocchi sul lato selezionato
+gameItemsDesc[104];Ripristina la salute e l'armatura
+gameItemsDesc[106];Ricariche proiettili e cartucce
+gameItemsDesc[107];Esplode in 5 secondi
+gameItemsDesc[108];Esplode quando si avvicinò
+gameItemsDesc[109];Respawn un personaggio in modalità di sopravvivenza
+gameItemsDesc[119];300bullets, 100cartridges, 50rockets, 300energy
+specItemsName[0];Zaino a reazione
+specItemsName[1];Russian Dance
+specItemsName[2];pazzo di danza
+specItemsName[3];Hit, baby!
+specItemsName[4];acrobata
+specItemsName[5];EEEE!
+specItemsName[6];Vittoria!
+specItemsName[7];Fallimento!
+specItemsName[8];Seguimi!
+specItemsDesc[0];Attivato con un salto
+specItemsDesc[1];Dance - H
+specItemsDesc[2];Dance - H
+specItemsDesc[3];Dance - H
+specItemsDesc[4];Dance - H
+specItemsDesc[5];Dance - H
+specItemsDesc[6];Dance - H
+specItemsDesc[7];Dance - H
+specItemsDesc[8];Dance - H
+move_learn;imparare
+RankName[0];Newbie
+RankName[1];Junior Recruit
+RankName[2];recluta
+RankName[3];anziano Recruit
+RankName[4];Recruit 1st Class
+RankName[5];soldato
+RankName[6];Recruit privato
+RankName[7];2 ° classe privata
+RankName[8];privato
+RankName[9];1 ° classe privata
+RankName[10];specialista
+RankName[11];senior Specialist
+RankName[12];Specialista 1st Class
+RankName[13];esploratore
+RankName[14];Junior caporale
+RankName[15];corporale
+RankName[16];comandante
+RankName[17];Il sergente 3 ° Class
+RankName[18];Sergente 2 ° Class
+RankName[19];Il sergente prima classe
+RankName[20];Sergente 3 ° Class
+RankName[21];Sergente 2 ° classe
+RankName[22];Sergente 1st Class
+RankName[23];comandante
+RankName[24];Junior Ufficiale
+RankName[25];senior Officer
+RankName[26];Junior tenente
+RankName[27];sottotenente
+RankName[28];tenente
+RankName[29];capitano
+RankName[30];Il capitano Reconnaissance
+RankName[31];Il capitano Special Ops
+RankName[32];tenente colonnello
+RankName[33];colonnello
+RankName[34];generale
+RankName[35];Generale dell'Esercito
+RankName[36];Comandante in capo
+RankName[37];maresciallo
+RankName[38];Il distacco capitano
+RankName[39];Il distacco maggiore
+RankName[40];Generale tenente
+RankName[41];Il distacco colonnello
+RankName[42];Generale colonnello
+RankName[43];Il distacco Marshal
+RankName[44];vendicatore
+RankName[45];pazzo
+findPrefabsNames[0];documento segreto
+findPrefabsNames[1];uranio
+newMapTypeName[0];baia
+newMapTypeName[1];isola
+newMapTypeName[2];Plains
+newMapTypeName[3];fiume
+newMapTypeName[4];bivio
+newMapTypeName[5];Plains vaste
+advices[0];Lanterne cinesi colorate sono meravigliosi di illuminazione per luoghi bui!
+advices[1];razzi anticarro con il mouse guida.
+advices[2];L'abbigliamento vi dà stat bonus!
+advices[3];Non dimenticate di acquistare alcuni proiettili per il combattimento!
+advices[4];La balestra ha munizioni infinite.
+advices[5];F10 - Non dimenticate di salvare la mappa!
+advices[6];F10 - Non dimenticate di salvare la mappa!
+advices[7];Tutti i blocchi sono gratuiti per i giocatori VIP.
+advices[8];i livelli di giocatori VIP 'e aumento di denaro in modo più rapido
+advices[9];Premere V per attivare la chat vocale
+advices[10];Qualsiasi gioco in cui uno dei tuoi amici sta giocando è mostrata sulla destra
+advices[11];Cammina sulla tomba di un giocatore morto e che sarà lui a respawn
+advices[12];In modalità di sopravvivenza, si riceve solo il 10% più esperienza per un omicidio, come si fa in battaglia
+advices[13];Se si elimina un elemento da una mappa, non sarà spostato vostro inventario
+advices[14];Non mi piace la vostra mappa, ma non hanno abbastanza per un nuovo slot? Genera una nuova mappa!
+advices[15];È possibile ottenere l'oro 2 bonus per il 5 ° giorno di giocare!
+advices[16];Inventario di un personaggio VIP (C) è di 2 stelle meglio!
+advices[17];Inventario di un personaggio VIP (C) è di 2 stelle meglio!
+gameTypeStr[0];Tutto ammessi
+gameTypeStr[1];costruzione
+gameTypeStr[2];Free For All
+gameTypeStr[3];sopravvivenza
+gameTypeStr[4];squadre
+gameTypeStr[5];missione
+buildinMapName[0];fuoco incrociato
+buildinMapName[1];Carne Block
+buildinMapName[2];città
+buildinMapName[3];piscina
+buildinMapName[4];palazzo
+buildinMapName[5];magazzino
+buildinMapName[6];isola
+buildinMapName[7];Zion Tech
+buildinMapName[8];Dunes
+buildinMapName[9];Zombie Città
+buildinMapName[10];arena
+buildinMapName[11];Bibz
+buildinMapName[12];sciopero
+buildinMapTeamsName[0];fiume
+buildinMapTeamsName[1];arena
+buildinMapTeamsName[2];due Torri
+buildinMapTeamsName[3];sciopero
+teamName[0];rosso
+teamName[1];blu
+teamName[2];verde
+teamName[3];oro
+graphStrs[0];più veloce
+graphStrs[1];veloce
+graphStrs[2];medio
+graphStrs[3];medio alto
+graphStrs[4];alto
+graphStrs[5];Ultra
+weaponNames[0];piccone
+weaponNames[1];pistola
+weaponNames[2];pistola
+weaponNames[3];Sawed-Off
+weaponNames[4];Uzi
+weaponNames[5];Mitraglietta
+weaponNames[6];lanciagranate
+weaponNames[7];Anti-Tank
+weaponNames[8];Spada laser
+weaponNames[9];spada
+weaponNames[10];plasma Gun
+weaponNames[11];Sniper Rifle
+weaponNames[12];Minigun
+weaponNames[13];Lanciafiamme
+weaponNames[14];Chainsaw
+weaponNames[15];Mazza da baseball
+weaponNames[16];mitragliatrice
+weaponNames[17];Big lanciagranate
+weaponNames[18];AK-47
+weaponNames[19];BFG
+weaponNames[20];squartatore
+weaponNames[21];laser
+weaponNames[22];pistola
+weaponNames[23];Plasma Sniper Rifle
+weaponNames[24];Bacchetta magica
+weaponNames[25];Snowball Cannon
+weaponNames[26];plasma Gun
+clothesName[0];
+clothesName[1];
+clothesName[2];
+clothesName[3];Cappello da cowboy
+clothesName[4];Cappello da cowboy
+clothesName[5];Cappello da cowboy
+clothesName[6];Overshoes verdi
+clothesName[7];Crimson Overshoes
+clothesName[8];Grinders
+clothesName[9];Stivali da combattimento
+clothesName[10];Stivali di campo
+clothesName[11];Overshoes giallo
+clothesName[12];Astroboots
+clothesName[13];Bieber Hairdo
+clothesName[14];pettinatura
+clothesName[15];emo Hairdo
+clothesName[16];Castagno Hairdo
+clothesName[17];biondi Hairdo
+clothesName[18];berretto
+clothesName[19];verde Mohawk
+clothesName[20];Viola Mohawk
+clothesName[21];Red Mohawk
+clothesName[22];Mohawk Yellow
+clothesName[23];Afro
+clothesName[24];Rambo Hairdo
+clothesName[25];Casco giallo
+clothesName[26];Elmetto
+clothesName[27];casco
+clothesName[28];Casco Vader
+clothesName[29];Casco Pathfinder
+clothesName[30];Pathfinder Armatura
+clothesName[31];Vader Armatura
+clothesName[32];Armored Vest
+clothesName[33];Corazza
+clothesName[34];munizioni cintura
+clothesName[35];golden Chain
+clothesName[36];Borsa Pathfinder
+clothesName[37];zaino
+clothesName[38];ventiquattrore
+clothesName[39];Spalline Stalker
+clothesName[40];Spalline Vader
+clothesName[41];Spalline ferro
+clothesName[42];Stalker Guanti
+clothesName[43];SmartWatch
+clothesName[44];Ferro Gauntlet
+clothesName[45];cinturino dell'orologio
+clothesName[46];Guarda
+clothesName[47];Blu Hairdo
+clothesName[48];Zaino della donna
+clothesName[49];Maschera di Cutter
+clothesName[50];Maschera Guy Fawkes
+clothesName[51];magia Cowl
+clothesName[52];magia Cowl
+clothesName[53];zucca
+clothesName[54];occhiali
+clothesName[55];Elmetto
+clothesName[56];berretto con visiera
+clothesName[57];cappello
+skinName[0];standard
+skinName[1];Drugan
+skinName[2];Afro
+skinName[3];esploratore
+skinName[4];soldato
+skinName[5];Rambo
+skinName[6];Iron Man
+skinName[7];Vader
+skinName[8];agente
+skinName[9];ragazza
+skinName[10];poliziotto
+skinName[11];Saitan Claus
+bulletsNames[0];Bullets
+bulletsNames[1];cartucce
+bulletsNames[2];Rockets
+bulletsNames[3];energia
+AAS_Position;posizione
+AAS_Upper;superiore
+AAS_Lower;minore
+AAS_Far;più lontano
+AAS_Near;Closer
+AAS_Right;destra
+AAS_Left;sinistra
+AAS_Size;taglie
+AAS_Higher;Taller
+AAS_Smaller;minore
+AAS_Longer;più a lungo
+AAS_Shorter;minore
+AAS_Wider;Wider
+AAS_Uje;partita
+AAS_Opening_for_N_sec;Apertura per
+sec;secondi
+AAS_rotation;Ruota
+save;Salva
+BCS_cant_save_if_joined;--- Non è possibile salvare la mappa dopo aver unito un gioco! ---
+BCS_only_owner_can_save;--- Solo il proprietario mappa può salvare la mappa! ---
+BCS_cant_save_in_battle;--- Non è possibile salvare una mappa in combattimento! ---
+BCS_end_round;Fine rotonda
+BCS_levelUpStrs[0];Va bene!
+BCS_levelUpStrs[1];Continuate così!
+BCS_levelUpStrs[2];ECCELLENTE!
+BCS_levelUpStrs[3];MAGNIFICA!
+BCS_levelUpStrs[4];LEVEL UP!
+BCS_endGame_timeout;TEMPO DI UP!
+BCS_endGame_ban;Sei stato bandito!
+BCS_endGame_noSuvivours;Non ci sono sopravvissuti!
+BCS_endGame_gameOver;GAME OVER!
+BCS_endGame_lostConnection;Collegamento perso ...
+BCS_endGame_tryAgain;Prova di nuovo!
+BCS_ban_from_server;--- Sei stato bandito dal server ---
+BCS_disable_miscrophone;Disabilita microfono
+BCS_to_speak_press;Premere V per parlare
+BCS_enable_microphone;Attiva microfono
+BCS_then_press_allow;Quindi premere Consenti
+BCS_get_VIP_to_speak;Diventa VIP Stato \ nPer utilizzare il vostro \ nmicrophone
+BCS_start_test;test mappa
+BCS_resume_game;Continuare gioco ( `)
+BCS_save_map;Salva Mappa (F10)
+BCS_inventory_shop;Inventario / Store (C)
+BCS_exit_from_game;Esci dal gioco
+BCS_allowed;AMMESSI:
+BCS_notallowed;VIETATO:
+BCS_noobs_to_build;I nuovi giocatori costruzione
+BCS_forbidBuild;vietare edificio
+BCS_allowBuild;consentire edificio
+BCS_ban;BAN
+BCS_end_test;Mappa di prova finale
+BCS_name;nome
+BCS_frags;Kills
+BCS_deathes;morti
+BCS_wait_while_saving;La mappa viene salvata. Si prega di attendere ...
+BCS_dont_forget_save_map;NON DIMENTICATE DI \ nSalva TUO \ nmap!
+BCS_save_and_exit;SAVE AND EXIT
+BCS_dont_save_exit;Uscire senza salvare
+BCS_new_level;Nuovo livello!
+BCS_new_rang;Il vostro nuovo rango:
+next;prossimo
+BCS_exp;esperienza
+BCS_time;tempo
+BCS_frags_per_minute;Uccide per minuto
+BCS_earned;Earned in questa battaglia:
+BCS_choose_team;Selezionare una squadra
+score;punteggio
+BCS_enter;entrare
+BCS_loading;Caricamento in corso ...
+BCS_advice;consigli
+BCS_speak_then_release;Parla poi \ nrelease V
+BCS_speaker_disabled;--- Microfono disabilitato. Premere Esc ( `) ---
+howto_play;F1 - Come faccio a giocare?
+howto_menu;ESC ( `) - Menu
+howto_close;F1 - Chiudi Guida
+howto_walk;Walk - WASD
+howto_jump;Jump - Barra spaziatrice
+howto_placeCube1;Posizionare Block / Articolo
+howto_placeCube2;tasto destro del mouse
+howto_removeCube1;Cancella Block
+howto_removeCube2;tasto sinistro del mouse
+howto_inventory;C - Inventario
+howto_chooseItem;1, 2, 3 ... - Voce Selezione
+howto_savemap;F10 - Salva Mappa
+howto_chat;Enter - Chat
+howto_voiceChat;V - Voice Chat
+howto_fullscreen;F12 - a tutto schermo
+howto_options;O - Opzioni
+speedHackDetected;speedhack rilevato
+strTutor[0];Benvenuti al poligono di tiro, soldato! La tua formazione sarà condotta in condizioni di quasi-combattimento. La vostra prima missione: trovare un ingresso al laboratorio abbandonato! Per iniziare, guardarsi intorno e trovare una via d'uscita da questa grotta!
+strTutor[1];Sembra una botola! Essa conduce al laboratorio. Premere il pulsante per aprire la porta.
+strTutor[2];Quelle colonne di polvere alla fine della stanza - che è un ascensore segreto anti-gravità in sviluppo! Per attivarlo, premere il pulsante a sinistra dell'ascensore.
+strTutor[3];Buon lavoro! Mi piace come fare le cose! Ora, ci dovrebbe essere una porta alla fine di questo corridoio. Sembra che abbiamo raggiunto il laboratorio!
+strTutor[4];Alt! Guardate! C'è uno zombie ostile nella stanza adiacente. STAMPA C, afferrare il vostro piccone e distruggere il nemico!
+strTutor[5];Si continua a sorprendermi, soldato! Ora le cose stanno per diventare davvero interessante!
+strTutor[6];Ora è necessario un'arma più potente. Qui, prendere questo fucile mitragliatore.
+strTutor[7];Le armi possono essere aggiornati nell'inventario, allo stesso tempo per aumentare le dimensioni del fermaglio
+strTutor[8];Un lanciagranate. E un'orda di zombie dietro quella porta. Sai cosa fare.
+strTutor[9];Ottimo lavoro, soldato! Dirigetevi verso il teletrasporto!
+strTutor[20];Ecco il tuo mondo! Lasciate che vi dica come costruire le cose in esso.
+strTutor[23];Buon lavoro! Guarda, è notte. Abbiamo bisogno di un po 'di luce in più!
+strTutor[25];Eccellente! Il tempo per salvare la tua mappa! Premere F10.
+strTutor[26];Ora è possibile costruire qualunque cosa vuoi! Buon divertimento!
+miniStrTutor[0];Trova il tunnel nella grotta
+miniStrTutor[1];Capovolgere la leva per aprire la porta
+miniStrTutor[2];Premere il pulsante per attivare l'ascensore
+miniStrTutor[3];Prendi al laboratorio
+miniStrTutor[4];Usa la tua piccone per distruggere lo zombie
+miniStrTutor[5];Salite i gradini fino alla superficie.
+miniStrTutor[6];Prendete il fucile mitragliatore
+miniStrTutor[7];Premere R e acquistare alcuni proiettili
+miniStrTutor[8];Distruggere tutti gli zombie
+miniStrTutor[9];Passo nel teletrasporto
+miniStrTutor[25];Salva mappa - F10
+tutor_need_reload;Premere R per usare un altro clip
+tutor_reload;R - Ricarica
+tutor_choose_weapons;Selezionare la sezione armi
+tutor_choose_bullets;Selezionare la sezione Ammo
+tutor_buy_ammo;Acquistare una clip
+tutor_close_inventory;Chiudere il tuo inventario (il tasto X o C)
+tutor_kill_monsters;Aprire la porta e distruggere i mostri
+tutor_placeCube;Posizionare un blocco con il tasto destro del mouse
+tutor_placeMoreCubes;Mettere più blocchi
+tutor_open_inventory;Premere C per aprire il tuo inventario
+tutor_choose_cubes;Selezionare la sezione Blocchi
+tutor_choose_nature;Selezionare la sezione Natura
+tutor_choose_any_cube;Selezionare qualsiasi blocco
+tutor_place_cube_inventar;Posizionare un blocco nel vostro inventario rapida
+tutor_remove_cube;Cancellare un blocco con il tasto sinistro del mouse
+tutor_remove_cubes_more;Cancella più blocchi
+tutor_place_fire;Posizionare una torcia con il tasto destro del mouse
+tutor_choose_decor;Selezionare la sezione Tatuaggi
+tutor_choose_light;Selezionare la sezione Luce
+tutor_choose_fire;Selezionare la torcia
+tutor_buy_one_fire;Acquista 1 torcia
+tutor_place_fire_inventar;Posizionare la torcia nel vostro inventario rapida
+tutor_kill_zombie_and_go;Uccidere gli zombie e passare attraverso la porta
+tutor_choose_axe;Selezionare il piccone
+tutor_buy_axe_forever;Acquista un piccone
+tutor_place_axe_inventar;Posizionare il piccone nel vostro inventario rapida
+short_name;--- Il tuo nome deve essere più lungo di 3 caratteri ---
+rang_table;Classifica
+params_health;Max Salute
+params_armor;Max Armatura
+param_speed;velocità
+param_jump;Vai
+param_defend;resistenza
+vip_not_enougth;VIP - non abbastanza oro
+vip_activated;VIP attivato!
+bank_name;BANK
+inventory_name;INVENTARIO
+maximum;Max
+hello_chiter;Ciao, imbroglione. Il tentativo di barare è stato registrato. Non farlo di nuovo!
+server_error;Errore del server.
+ban_cheater;Ciao, imbroglione. Sei stato bandito.
+loading_data;Caricamento dati.
+newGameMapTypeStr[0];Le mie mappe
+newGameMapTypeStr[1];mappe standard
+filterGameTypeStr[0];Qualsiasi tipo di battaglia
+filterGameTypeStr[1];Free For All
+filterGameTypeStr[2];costruzione
+filterGameTypeStr[3];sopravvivenza
+filterGameTypeStr[4];squadre
+mapCanBreakStr[0];qualsiasi
+mapCanBreakStr[1];No Distruzione
+mapCanBreakStr[2];distruzione
+mapDayLightStr[0];qualsiasi
+mapDayLightStr[1];giorno
+mapDayLightStr[2];Giorno e Notte
+mapDayLightStr[3];notte
+serverTypeStr[0];server
+serverTypeStr[1];I miei \ nMaps
+serverTypeStr[2];Qualsiasi \ Nmap
+begin_game;Start Game
+any_map;qualsiasi Mappa
+map;mappa
+self_map;Player Mappa
+wrong_password;--- Password non valida! --- (Password scritto sotto)
+respawnTimeStr[0];10 secondi
+respawnTimeStr[1];30 secondi
+respawnTimeStr[2];1 minuto
+respawnTimeStr[3];2 minuti
+respawnTimeStr[4];5 minuti
+respawnTimeStr[5];10 minuti
+respawnTimeStr[6];30 minuti
+respawnTimeStr[7];senza respawn
+monster_options;opzioni del punto mostro respawn
+monster_type;mostro di Tipo
+ressurection_time;respawn Tempo
+error_empty_map;mappa vuota! Prova un altro gioco.
+player_can_build_now;edificio è ora consentito
+player_cant_build_now;edificio è vietato!
+opt_name;Opzioni
+opt_graph;grafica
+opt_worse;minore
+opt_better;superiore
+opt_sound;suono
+opt_silent;Più tranquillo
+opt_louder;Louder
+opt_empty_screen;Vuoto \ nScreen
+opt_smooth_follow;Smooth \ nMovement
+opt_close;Chiudere (O)
+connect_failed;Connessione non riuscita.
+create_room_failed;creazione Camera riuscita.
+put_on_items;--- --- Posto su interruttori
+cube_occupied;--- Questo blocco è occupato ---
+to_delete_press;Premere DEL per cancellare
+to_move_press;Premere e per spostare
+to_activate_press;Premere F per attivare
+to_rotate_press;Premere R per ruotare
+to_edit_press;Premere T per modificare le opzioni
+cant_build_ask_admin;Costruire è vietata. Contattare l'amministratore della mappa.
+cant_change_world;Non è possibile cambiare il mondo nella modalità di gioco in corso.
+not_enougth_cubes;Nessun altro blocchi. È ora di combattere!
+beside_world;--- Al di là della mappa ---
+place_on_cube_side;--- Posizionare questo sul lato di un blocco ---
+place_on_ceil;--- Posizionare questo sul soffitto ---
+cant_already_remove;Non è possibile deselezionare qualsiasi altra cosa. È ora di combattere!
+find_item_choose_type;Selezionare un tipo di elemento
+find_item_type;Tipo di elemento
+apply;USO
+_for;per
+ps_choose_new_item_place;Selezionare una nuova posizione in cui inserire questa voce.
+ps_press_for_respawn;Premere il salto (barra spaziatrice) per respawn
+ps_you_dead_try_again;Sei morto! Riprovare la missione
+ps_survival_dead;Potrai respawn all'inizio della prossima ondata (o se un altro giocatore passa davanti il ​​posto sei morto).
+ps_survival_if_VIP;Se si dispone di status di VIP, si respawn in 30 secondi.
+ps_use_vita_water;Per respawn, usare un po 'di Acqua di Vita (Inventario (C) - Articoli)
+ps_press_for_use_vita_water;Per respawn, premere X, e la vostra Acqua della Vita vi porterà indietro
+ps_before_respawn_secs;Tempo rimanente fino respawn
+ps_health_and_armor_restored;Salute e armatura restaurato
+ss_loading;caricamento
+social_tell_friends;Dì ai tuoi amici
+social_menu;Aggiungi al menu
+social_invite_friends;Invita Amici
+social_group;Iscriviti al gruppo
+social_invite_num_friends;3 Invita Amici
+social_tell_about_game;Raccontare agli amici circa il gioco
+social_install_game;installare il gioco
+trig_options;Opzioni di commutazione
+trig_type;Tipo di interruttore
+trig_triggered_if;Interruttore Condizione:
+trig_need_for_triggering;Requisiti Switch:
+trig_mission_exit;Lasciare questa missione!
+wire_put_on_switch;È possibile inserire solo un filo su un interruttore!
+wire_options;Opzioni Wire
+wire_signal_delay;Ritardo segnale
+wire_connected_with;Wire collegato a
+wire_not_connected;non collegato
+wire_connected_moveable_cubes;Blocchi mobili
+wire_connected_switch;interruttore
+wire_connected_item;voce
+wire_connected_coords;coordinate
+wire_connect_to;collegare il filo
+wire_choose_connect_to;Selezionare un luogo per collegare il filo. (Per teletrasporto, un semplice blocco. Per gli altri meccanici, blocchi mobili, oggetti, o switch).
+plazm_grenade_gun;Plasma lanciagranate
+seconds;secondi
+secondu;secondo
+secondy;secondi
+minutes;verbale
+minutu;minuto
+minuty;verbale
+monsters;mostri
+monstra;mostri
+viral_title;Completa la missione e ottenere una ricompensa
+viral_bonus;premio
+player_exit;ha lasciato la partita
+player_joined;ha aderito al gioco
+need_bullets_nothing;niente
+need;richiesto
+put_on;attrezzare
+activities_title;movimento
+shots_per_sec;Scatti / sec:
+requireBullets;Usa:
+offer_text[0];Signore e signori, prendere il vostro tempo solo oggi ha una vendita unica. Sconti del 50% per questi prodotti
+offer_text[1];Miglior prezzo per l'oro
+offer_text[2];Più di dollari e l'esperienza di una missione
+monster_health_mult;moltiplicatore di salute
+monster_damage_mult;moltiplicatore di danno
+monster_state;Con questi parametri, nuovo status del mostro
+boss;capo
+newYearBoss_mission_adv;secret Mission
+newYearBoss_mission_need_level;Richiede livello 5.
+transport_options;Configurazione di trasporto uova
+transport_type;tipo di trasporto
+transportName[0];ATV
+transportName[1];torretta
+transportName[2];Banshee
+to_drive_press;Premere (E) da utilizzare
+no_place_to_drive;--- Tutti i sedili sono occupati! ---
+press_to_end_drive;Premere (X) di uscita
+mission_name[1];lezione
+mission_name[2];Difendere il Village
+mission_name[4];Difendere il Village
+mission_name[5];In Search of Blueprints
+mission_name[6];L'ultima difesa
+mission_name[7];Pulizia Parco
+mission_name[10];radioattivo
+mission_name[11];La seconda ondata
+mission_name[12];Alpha Base
+mission_name[13];vettore
+mission_name[14];serbatoio di produzione
+mission_name[15];Fear Factory
+mission_name[16];Secret of the Dead
+mission_name[17];manganello
+mission_name[18];controllo
+mission_name[19];Tagil
+mission_name[20];piano
+mission_name[21];Krump
+mission_name[22];China-Town
+mission_name[23];corsa
+mission_name[24];Croce
+mission_name[26];Sopravvivere!
+mission_name[27];Distruggi!
+mission_name[28];Trova!
+mission_name[29];Raccogliere!
+mission_name[30];Fuga!
+mission_name[31];Mop up!
+Buy;acquistare
+pieses;importo
+for_fullScreen_press;A tutto schermo - premere F12
+social_folow_fanpage;Seguire Fan Page
+you_killed;Hai ucciso
+you_was_killed_by;ucciso da
+killed;ucciso
+to_next_round_last;Prossimo turno inizia a
+shooter_end_battle;Terminare la battaglia
+winner_place[0];1 ° posto
+winner_place[1];2 ° posto
+winner_place[2];3 ° posto
+dead_by_nature;è morto
+dead_himself;suicidio ha commesso
+dead_by_zombie;è stato mangiato
+weaponNames[27];Plazmer
+weaponNames[28];pistola Scorch
+weaponNames[29];Adv. pistola
+weaponNames[30];Tactical Shotgun
+weaponNames[31];Tactical Rifle
+offer_title;offerta
+sale_title;vendita
+offer_open_shop;aperto Conservare
+offer_open_bank;Open Bank
+bulletsNames[4];Plazm
+bulletsNames[5];ammo 7.62
+bulletsNames[6];uranio
+bulletsNames[7];razzi PTURS
+bulletsNames[8];granate
+bulletsNames[9];ammo .300
+howto_tab;TAB - dei punti dei giocatori
+clothesName[58];Exo Armatura
+clothesName[59];Exo Boots
+clothesName[60];Casco Exo
+clothesName[61];Exo Pads
+clothesName[62];Exo Armatura
+clothesName[63];Exo Boots
+clothesName[64];Casco Exo
+clothesName[65];Exo Pads
+buildinMapName[13];motel
+buildinMapName[14];mattatoio
+skinName[12];Exo
+buildinMapName[15];fiume
+buildinMapName[16];baia
+buildinMapName[17];isola
+buildinMapName[18];Plains
+buildinMapName[19];bivio
+buildinMapName[20];fiume
+buildinMapName[21];arena
+buildinMapName[22];due Torri
+buildinMapName[23];sciopero
+buildinMapName[24];"Assalto Pro"
+buildinMapName[25];"Motel"
+online;online
+building;costruzione
+mapsTop;Top mappe
+anyBattle;ogni battaglia
+withFriends;con amici
+createGame;Crea gioco
+friendsMaps;Amici mappe
+findMap;Trova mappa
+buySlotFor10;Comprare slot per 10
+allMaps;tutte le mappe
+addFor10;Aggiungere per 10
+accuracy;accuratezza
+nearFight;lotta Vicino
+lightWeapon;Le armi leggere
+shotguns;fucili
+assaults;assalti
+heavy;pesante
+precision;precisione
+equipment;attrezzatura
+weapons;Armi
+dances;danze
+myClan;Il mio clan
+allClans;tutti i clan
+createFor10;Creare per 10
+edit;Modifica
+leave;lasciare
+gameType;tipo di gioco
+add;aggiungere
+addMap;Aggiungere mappa
+mapCanBreak1;indistruttibile
+weapon_upgrade_name0;danno
+weapon_upgrade_name2;Tasso di fuoco
+weapon_upgrade_name3;dimensione della clip
+weapon_upgrade_name4;init munizioni
+is_tabs0;Cubi
+tabsItems;articoli
+is_tabs2;meccanismi
+is_tabs3;respawn
+clanShort;nome breve
+clanURL;La pagina del clan URL
+clanName;nome clan
+clanJoin;aderire
+clan;clan
+myMap;La mia mappa
+find;trovare
+clear;chiaro
+buyToUpgrade;Per eseguire l'aggiornamento, acquistarlo
+message;messaggio
+start;inizio
+buildinMaps;mappe buildin
+music;musica
+mouseSens;sens mouse.
+sound;suono
+settings;Impostazioni
+graph;grafica
+resolution;resulution
+activate;attivare
+close;vicino
+character;carattere
+main;principale
+game;gioco
+arsenal;arsenale
+career;carriera
+fastBattle;Veloce Battle!
+use;uso
+needParamsUpgradeNow;Aggiornare tutti ora
+needParamsToBuy1;bisogno
+needParamsToBuyLevel;livello
+Upgrade;aggiornamento
+weapon_upgrade_name[0];danno
+weapon_upgrade_name[1];accuratezza
+weapon_upgrade_name[2];Tasso di fuoco
+weapon_upgrade_name[3];dimensione della clip
+weapon_upgrade_name[4];init munizioni
+twiceGoldForFirstDonate;2 volte più monete per il primo pagamento!
+DecorTypesNew[0];luce
+DecorTypesNew[1];mobili
+DecorTypesNew[2];porte
+DecorTypesNew[3];Scale
+DecorTypesNew[4];piante
+DecorTypesNew[5];arredamento
+DecorTypesNew[6];strade
+DeviceTypes[3];booster
+episode4;superstite
+episode5;infezione
+episode6;L'emivita
+episode7;solitudine
+episode8;eclissi
+filterGameTypeStr[5];Cattura la bandiera
+filterGameTypeStr[6];dominazione
+gameTypeStr[6];Cattura la bandiera
+gameTypeStr[7];dominazione
+mission_name[32];Paura!
+mission_name[33];avamposto
+mission_name[34];roccia
+mission_name[35];Laboratorio del Male
+mission_name[36];l'inizio
+mission_name[37];La zona infetta
+mission_name[38];The Crossing
+mission_name[39];la Zona
+mission_name[40];schianto
+mission_name[41];La foresta di Twilight
+mission_name[42];salvezza
+mission_name[43];diga
+mission_name[44];Le Grotte di morte
+mission_name[45];Spaceport
+mission_name[46];L'omega Asteroid
+mission_name[47];tenuta
+mission_name[48];paradiso
+mission_name[49];La strada per l'Occidente
+mission_name[50];La città in rovina
+mission_name[51];Laboratorio di
+mission_name[52];La città segreta
+mission_name[53];profondità
+mission_name[54];Gamma Base
+mission_name[55];punto morto
+mission_name[56];Tesla Arena
+mission_name[57];PXL
+mission_name[58];I minatori Village
+mission_name[59];Astrand
+mission_name[60];Atlantis
+mission_name[61];l'Accademia
+mission_name[62];Laboratorio Albadar
+mission_name[63];la costruzione
+mission_name[64];deserto
+mission_name[65];Il muro del pianto
+mission_name[66];ECIP-18
+mission_name[67];il Villaggio
+mission_name[68];The Cave
+mission_name[69];La porta Abbandonato
+mission_name[70];Il tempio nascosto
+mission_name[71];
+mission_name[72];tropico
+mission_name[73];Water-Park
+mission_name[74];quarto
+mission_name[75];arteria
+mission_name[76];cava
+mission_name[78];miniera abbandonata
+mission_name[79];Il tempio segreto
+mission_name[80];Laboratorio 776
+mission_name[81];Chernobyl
+mission_name[82];a nord
+mission_name[83];Il sentiero oscuro
+mission_name[84];tenuta
+mission_name[85];Un posto tranquillo
+mission_name[86];The Settlement
+createForX;Creare per {0}
+myMapsListTutor;Selezionare una mappa dalla lista. È possibile costruire le mappe da soli o con gli amici, e poi giocare le mappe attraverso la rete.
+bonusName[0];Indebolimento
+bonusName[1];DOPPIA INDEBOLIMENTO
+bonusName[2];ESPLOSIONE
+bonusName[3];DOPPIA ESPLOSIONE
+bonusName[4];2 frags
+bonusName[5];5 frags
+bonusName[6];7 frags
+bonusName[7];10 frags
+bonusName[8];HADSHOT
+bonusName[9];3 colpi alla testa
+bonusName[10];5 colpi alla testa
+bonusName[11];Il soccorritore
+bonusName[12];5 SALVATO
+bonusName[13];SANTO
+bonusName[14];combattimento corpo a corpo
+bonusName[15];Combattimento corpo a corpo 3
+bonusName[16];SUICIDIO
+bonusName[17];La squadra vincente
+bonusName[18];1 ° posto
+bonusName[19];2 ° POSTO
+bonusName[20];3 ° POSTO
+bonusName[21];Cattura la bandiera
+bonusName[22];LA MISSIONE
+bonusName[23];5 zombie
+bonusName[24];20 zombie
+bonusName[25];50 zombie
+bonusName[26];3 demoni
+bonusName[27];10 demoni
+bonusName[28];esplosione 3 zombie
+bonusName[29];esplosione 20 zombie
+bonusName[30];esplosione 50 zombie
+bonusName[31];La distruzione del trasporto
+bonusName[32];3 trasporti
+bonusName[33];1 onda
+bonusName[34];3 onde
+bonusName[35];5 onde
+bonusName[36];10 onde
+bonusName[37];50 cubetti
+bonusName[38];150 cubetti
+bonusName[39];5 articoli
+bonusName[40];20 articoli
+bonusName[41];il meccanismo
+frags_killed;frags
+dialog_next;prossimo
+exitGame;Esci al menu principale?
+exit;uscita
+gameItemsNames[83];bandiera rossa
+gameItemsNames[84];bandiera verde
+gameItemsNames[85];bandiera blu
+gameItemsNames[86];bandiera d'oro
+gameItemsNames[87];cecchino Spawn
+gameItemsNames[88];Spawn di Scorch Gun
+gameItemsNames[89];dominazione Point
+gameItemsNames[90];APC respawn
+gameItemsNames[91];respawn di Cutter
+gameItemsNames[92];Djumper
+gameItemsNames[93];Pusher
+gameItemsNames[94];PC
+gameItemsNames[95];Ctylish PC
+gameItemsNames[96];Zombie agente
+gameItemsNames[97];Zombie Stalker
+SpawnerTypes[0];Armi
+SpawnerTypes[1];mostri
+SpawnerTypes[2];speciale
+SpawnerTypes[3];altro
+buildinMapName[26];Lummoks
+buildinMapName[27];Argolis
+pauseMenu_rank;rango
+pauseMenu_name;nome
+pauseMenu_kills;frags
+pauseMenu_deathes;deathes
+pauseMenu_ban;bando
+pauseMenu_allow;Consenti / vietare
+pauseMenu_beginTest;Inizia mappa di prova
+pauseMenu_saveMap;Salva mappa
+pauseMenu_healers;aiuta
+pauseMenu_gamers;I giocatori
+pauseMenu_wave;Wave:
+pauseMenu_score;punteggio
+clan_fail_new;creazione di clan non riuscita
+clan_url_default;Inserisci URL gruppo clan esempio http://facebook.com/
+gameItemsNames[120];porta
+gameItemsNames[121];petto
+gameItemsNames[122];tappeto
+gameItemsNames[123];guardaroba
+gameItemsNames[124];tavolo
+gameItemsNames[125];sgabello
+gameItemsNames[126];Candele
+strTutor[21];Premere C e selezionare qualsiasi cubo \ nPoi costruire 5 cubetti ovunque (tasto destro del mouse)
+strTutor[22];Fatto! Ora distruggere tutti i 5 cubetti (tasto sinistro del mouse)
+clothesName[66];coniglio
+clothesName[67];ali
+clothesName[68];Casco spaziale
+skinName[13];astronauta
+skinName[14];cavaliere
+txts_bonus;premio
+instal_android_many;Installare Deadzone sul telefono lasciare una buona recensione e mettere 5 stelle e ottenere {0} monete.
+instal_android;1.Installare il gioco sul vostro telefono.
+star_otziv;2.Leave una buona recensione e mettere 5 stelle
+txt_frendsss;3.Tell tuoi amici
+award_android;premio
+ta_bonus;Pick up bonus
+enter_android;ENTER GMAIL GOOGLE.PLAY
+gmail_android;inserisci il tuo indirizzo e-mail da Google Play per confermare circa l'installazione del gioco
+shield_knight;scudo
+helmet_knight;casco
+knight_skin;cavaliere
+pca_pca;PCA
+revolver_r;rivoltella
+bfg_9000;BFG 9000
+computer_stailish;Computer elegante
+computer_c;Computer elegante
+pusher;Pusher
+jumper;jumper
+easy_apc;facile APC
+helicopter;elicottero
+jet_soldiers;soldati Jet
+zombie_knight;Zombie Cavaliere
+zombie_stalker;Zombie Stalker
+gameItemsNames[127];camionetta
+gameItemsNames[128];rinnegato
+gameItemsNames[129];0x1 Robot
+gameItemsNames[130];0x2 Robot
+gameItemsNames[131];0x3 Robot
+gameItemsNames[132];0x4 Robot
+gameItemsNames[133];Robot-BOSS 0x5
+gameItemsNames[134];Lite BTR
+gameItemsNames[135];elicottero
+gameItemsNames[136];Zombie cavaliere
+gameItemsNames[137];soldati reattivi
+gameItemsNames[138];barca
+weaponNames[32];rivoltella
+weaponNames[33];PCA
+weaponNames[34];BFG
+clothesName[68];casco Cosmo
+clothesName[69];casco
+clothesName[70];scudo
+monsterName[7];0x1 Robot
+monsterName[8];0x2 Robot
+monsterName[9];0x3 Robot
+monsterName[10];0x4 Robot
+monsterName[11];Robot Boss 0x5
+monsterName[12];agente
+monsterName[13];Stalker
+monsterName[14];cavaliere
+monsterName[15];soldati Rocket
+he_saved;salvato
+you_saved;è stato salvato
+he_saved_you;ha salvato
+headshot;HEADSHOT
+offer_title;offerta
+sale_title;vendita
+offer_open_shop;Aprire il negozio
+offer_open_bank;Open Bank
+howto_tab;TAB - punteggi
+you_have_flag;Hai la bandiera! Taki è basare
+your_flag_captured;È la bandiera presa! Rientro IT!
+flag_has_been_captured;Flag catturato!
+flag_color_name[0];"Red"
+flag_color_name[1];"Blue"
+flag_color_name[2];"Green"
+flag_color_name[3];"Giallo"
+takes_flag;preso
+dropped_flag;caduto
+flag;bandiera
+BCS_Score;punteggio
+cant_take_flag_no_players;Non puoi prendere la bandiera della squadra di vuoto
+you_returned_flag;È tornato bandiera
+your_team_is;È Team -
+need_level;Necessità {0} livello
+Unlock;Sblocca per
+jumper_options;configurazione Djumper
+jumper_options_height;Potenza:
+mapCanBreak1;No pausa
+buildinMapName[28];"Arena Sontar"
+buildinMapName[29];"Scatola di carne 2"
+buildinMapName[30];"La città rossa"
+weaponNames[35];SVD9000
+weaponNames[36];FreezeGun
+gameItemsNames[139];disc
+gameItemsNames[140];porta
+gameItemsNames[141];barriera
+gameItemsNames[142];Grande barriera
+gameItemsNames[143];condizionatore
+gameItemsNames[144];semaforo
+gameItemsNames[145];semaforo
+gameItemsNames[146];Satelite
+gameItemsNames[147];telefono
+gameItemsNames[148];Luce Città
+gameItemsNames[149];altare
+gameItemsNames[150];recinzione Scull
+gameItemsNames[151];Lanterna Fuoco
+gameItemsNames[152];spaventapasseri
+gameItemsNames[153];luce di zucca
+weaponNames[37];piede di porco
+weaponNames[38];sfollagente
+weaponNames[39];MP5
+weaponNames[40];UMP
+DeviceTypes[4];Pistole
+gameItemsNames[154];pistola
+gameItemsNames[155];Launcher
+weaponNames[41];SPEC UMP
+weaponNames[42];Katana
+weaponNames[43];Axe
+clothesName[71];Swords
+skinName[15];guadare
+weaponNames[44];fucile da caccia
+weaponNames[45];SG553
+weaponNames[46];Kriss
+weaponNames[47];AA12
+weaponNames[48];PP19
+weaponNames[49];Shmaiser
+weaponNames[50];Bargun
+weaponNames[51];MG42
+weaponNames[52];SMK2
+weaponNames[53];HK416
+weaponNames[54];MGL
+weaponNames[55];TMP
+gameItemsNames[156];Saitan Claus
+need_prew_upgrade;È necessario sbloccare tutte le armi PREW
+unlock;sbloccare
+weaponNames[56];balestra
+weaponNames[57];Carbon Extra
+MissionType[7];Trova l'uscita in tempo
+gameItemsNames[157];serbatoio
+ui_buy_for;Comprare Tutto per {0}
+gameItemsNames[158];doppio letto
+gameItemsNames[159];letto
+gameItemsNames[160];sedia
+gameItemsNames[161];tavolo
+gameItemsNames[162];Baricade
+gameItemsNames[163];bersaglio
+gameItemsNames[164];armadietto
+gameItemsNames[165];Mid Locker
+gameItemsNames[166];Log
+gameItemsNames[167];Bar orizzontale
+gameItemsNames[168];Blu serbatoio
+gameItemsNames[169];serbatoio rosso
+gameItemsNames[170];guerra Aereo
+weaponNames[58];Asvald
+weaponNames[59];martello
+weaponNames[60];M7001
+newMapTypeName[6];deserto
+newMapTypeName[7];inverno
+newMapTypeName[8];palude
+gameItemsNames[171];lanterna
+gameItemsNames[172];Lanterna Big
+gameItemsNames[173];grande letto
+gameItemsNames[174];letto
+gameItemsNames[175];guardaroba
+gameItemsNames[176];sedia
+specItemsName[9];torcia elettrica
+specItemsName[10];antiG
+weaponNames[61];fn57
+weaponNames[62];M249
+weaponNames[63];Gauss
+weaponNames[64];railgun
+quit_yesno;Uscire?
+newMapTypeName[9];Spacepack 
+pack;Confezione
+money1;contanti
+money2;oro
+gameItemsNames[177];esploratore
+RankName[46];Кубезумец
+RankName[47];Демон
+RankName[48];Лорд-Демон
+RankName[49];Маршал-Демон
+weaponNames[65];Rippa
+gameItemsNames[178];Kitchen 1
+gameItemsNames[179];Kitchen 2
+gameItemsNames[180];Kitchen 3
+gameItemsNames[181];Kitchen 4
+gameItemsNames[182];Kitchen 5 
+gameItemsNames[183];Fridge
+skinName[16];Vetaran
+clothesName[72];Veteran Hat
+clothesName[73];Veteran Belt
+clothesName[74];Veteran Suit
+weaponNames[66];KBZP100
+weaponNames[67];KBZS200
+weaponNames[68];KBZC500

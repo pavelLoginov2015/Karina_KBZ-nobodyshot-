@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1385864732367108}
+  m_IsPrefabParent: 1
+--- !u!1 &1385864732367108
+GameObject:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - 4: {fileID: 4718331953463615}
+  - 114: {fileID: 114469890647431772}
+  m_Layer: 0
+  m_Name: HaloBotsBlueDress
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4718331953463615
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1385864732367108}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.16881943, y: 1.5425851, z: 0.014404297}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114469890647431772
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1385864732367108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2496c535abc14ccede3e029522860992, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  dressItemsPrefabs:
+  - {fileID: 1339799653617368, guid: d0dc414aacf72284f840db3fca2bfb69, type: 2}
+  - {fileID: 1358783950133500, guid: e3f90e1bf77da7247a1ce98ab9db6a3b, type: 2}
+  dressItems:
+  - {fileID: 0}
+  - {fileID: 0}
+  transformToBind: 0500000006000000

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c83e9c15184e0dd62935cecde637fdd9, type: 3}
+  m_Name: 8
+  m_EditorClassIdentifier:
+  id: 68
+  t: 3
+  icon: {fileID: 2800000, guid: 918bb4f0c3cd57e4cabbe1e0a006418c, type: 3}
+  go: {fileID: 1283868983397499, guid: cb689e80b0563924f89431b473a1645c, type: 2}
+  name: космошлем
+  desc:

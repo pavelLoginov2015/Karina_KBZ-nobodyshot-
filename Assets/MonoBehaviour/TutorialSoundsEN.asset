@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb6f1a72f2d96d4b45dc888e640da547, type: 3}
+  m_Name: TutorialSoundsEN
+  m_EditorClassIdentifier:
+  locale: en_US
+  soundTutor:
+  - {fileID: 1992966096511960, guid: 2d94f5cc07abed24190806ad229a2f86, type: 2}
+  - {fileID: 1693530543315129, guid: 6c69908c42645914daa7047645a250f4, type: 2}
+  - {fileID: 1809055303417719, guid: 9cc186474aa12894ea765218aa1e1ac8, type: 2}
+  - {fileID: 1148351516423544, guid: 41643033e99ad9b4e82c404c64437032, type: 2}
+  - {fileID: 1993892913058660, guid: 9a68a8c457f476a4bae8adf037fdc37b, type: 2}
+  - {fileID: 1494760104319838, guid: 8a6cca36d8e300a4983f434d495c1aaf, type: 2}
+  - {fileID: 1557315308564577, guid: b067ed11f02fa624182b36722d2a5502, type: 2}
+  - {fileID: 1676694005971103, guid: 38a8fce95470bdc4fbcc715545868c46, type: 2}
+  - {fileID: 1285325854801452, guid: 11ae592751a1d7d4eb5d296e17eeb330, type: 2}
+  - {fileID: 1294598399650888, guid: ef7e2f2fd1f756144ac5a34306904855, type: 2}
+  - {fileID: 1294598399650888, guid: ef7e2f2fd1f756144ac5a34306904855, type: 2}

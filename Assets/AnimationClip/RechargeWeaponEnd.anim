@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: RechargeWeaponEnd
+  m_AnimationType: 1
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.20216367, y: -0.67690617, z: -0.20253916, w: 0.67816347}
+        inSlope: {x: -0.40432733, y: -0.05908847, z: 0.40507832, w: 0.05919814}
+        outSlope: {x: -0.40432733, y: -0.05908847, z: 0.40507832, w: 0.05919814}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 0, y: -0.7064504, z: 0, w: 0.70776254}
+        inSlope: {x: -0.40432733, y: -0.05908847, z: 0.40507832, w: 0.05919814}
+        outSlope: {x: -0.40432733, y: -0.05908847, z: 0.40507832, w: 0.05919814}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj
+  m_CompressedRotationCurves: []
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0.36060408, y: -0.5564804, z: 0.58394665}
+        inSlope: {x: 0.0008841157, y: 0.72648, z: 0.47643435}
+        outSlope: {x: 0.0008841157, y: 0.72648, z: 0.47643435}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 0.36104614, y: -0.1932404, z: 0.8221638}
+        inSlope: {x: 0.0008841157, y: 0.72648, z: 0.47643435}
+        outSlope: {x: 0.0008841157, y: 0.72648, z: 0.47643435}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+    path: CameraObj/WeaponObj
+  m_ScaleCurves: []
+  m_FloatCurves: []
+  m_PPtrCurves: []
+  m_SampleRate: 2
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings: []
+    pptrCurveMapping: []
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_StartTime: 0
+    m_StopTime: 1
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_LoopTime: 0
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves: []
+  m_EulerEditorCurves: []
+  m_Events: []

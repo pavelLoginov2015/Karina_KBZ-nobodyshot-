@@ -1,0 +1,1354 @@
+key;ru
+artefacts_title;Артефакты
+infection_start;Заражение началось!
+zombie_winning;Зомби одержали победу!
+people_winning;Люди одержали победу!
+init_nickname;Введите имя персонажа:
+common_connect;Подождите, идёт соединение с игровым сервером...
+common_cancel;Отмена
+mission_gift;Награда:
+mission_done;Уровень пройден!
+mission_nobonus;Золото и игровые предметы выдаются только при ПЕРВОМ прохождении миссии.
+game_fail;Никто не выжил...
+dialog_play;Играть
+dialog_back;Назад
+dialog_ok;OK
+postonwall;Рассказать
+episode1;Начало
+episode2;Мясорубка
+episode3;Мертвецы
+episode_name;Эпизод {0}
+mm_missions;Миссии
+mm_maps;Мои карты
+mm_online;Сетевая игра
+mm_shop;Инвентарь (С)
+mm_bank;Банк
+mm_options;Опции игры(O)
+mm_invite;Пригласите своих друзей!
+c_slot;Карта
+c_new_slot;Новый слот
+c_buy_slot_gold;Для покупки слота не хватает монет:
+map_loading_data;Загружаются данные карты...
+low_gold;--- Не хватает монет. ---
+c_map_title;Название карты
+c_map_id;ID карты:
+c_play_alone;Не мешать!\n(На Вашу карту не будут заходить)
+c_light_type;Тип освещения:\n
+c_map_choseMap;Выберите карту из списка Ваших карт слева.
+c_map_help;Вы можете строить свои карты в одиночку или с друзьями, а затем играть на своих картах по сети!
+common_connect_game;Подождите, идёт подсоединение к игре...
+password;Пароль
+do_load;ЗАГРУЗИТЬ
+regenerate;Перегенерировать
+ys_regenerate;Текущая карта будет стёрта!\nТочно перегенегировать?
+no;НЕТ
+yes;Да
+ok;OK
+map_slot_empty;Карта ещё не создана.\nВыбирете тип новой карты:
+create_game;СОЗДАТЬ
+dialog_cancel;Отмена
+online_server_type;ВЫБЕРИТЕ ТИП СЕРВЕРА:
+players_on_server;На сервере с выбранными параметрами играет  {0} игроков
+connect_game;ПРИСОЕДИНИТЬСЯ К СЕРВЕРУ!
+onl_type;Тип: 
+onl_map;Карта:
+onl_light;Свет:
+onl_break;Разрушения:
+onl_input_password;Пароль для входа: 
+onl_friends;ИГРЫ, ГДЕ СЕЙЧАС ИГРАЮТ МОИ ДРУЗЬЯ:
+onl_empty_rooms;Игр с друзьями нет..
+onl_unknown_map;Неизвестная карта
+onl_mission_desc;Эпизод {0} , миссия {1} 
+onl_players_online;Онлайн: {0}
+daily_bonus;БОНУС
+daily_desc;Заходи в игру каждый день и получишь уникальную деталь от секретного оружия
+daily_tip;"Собери 4 запчасти и получи ""{0}"""
+take_bonus;Забрать бонус
+dont_cheat;Я не буду больше читерить...
+special_bonus;СПЕЦИАЛЬНЫЙ БОНУС!
+is_one_day;1 день
+is_one_week;7 дней
+is_one_mounth;30 дней
+is_two_weeks;2 недели
+is_unlimit;Навсегда
+no_money;Не хватает денег:
+is_reload;R - перезарядка
+is_time_left;Осталось 
+is_days_left;{0} дней 
+is_hours_left;{0} часов {1} минут
+is_max;Максимальный запас
+is_min_level_to_buy;Для увел. нужен
+is_ammo_info;Этот набор патронов будет выдаваться каждый бой.
+is_initial_ammo;Начальный запас:
+is_tabs[0];Кубы
+is_tabs[1];Предметы
+is_tabs[2];Механизмы
+is_tabs[3];Респауны
+is_tabs[4];Оружие
+is_tabs[5];Перс
+is_tabs[6];Банк
+BonusTypeStr[0];здоровье
+BonusTypeStr[1];броня
+BonusTypeStr[2];скорость
+BonusTypeStr[3];прыжок
+BonusTypeStr[4];стойкость
+vip_info;Получите статус V.I.P. и у Вас будет:\n1. {0}% опыта и денег за уровни!\n2. Возможность разговора по микрофону прямо в игре!\n3. Все характеристики на 2 звезды выше!\n4. Возрождение за 30 сек. в режиме выживания!
+is_weapon_power;Мощность: 
+is_cash;баксов:
+is_gold;монет:
+is_upgrade;Увеличить - 
+is_weapon_ammo_has;Обойм в наличии: 
+is_weapon_ammo_buy;"	Купить"
+is_need_more; - нужно ещё 
+is_buy_for;Купить за 
+player_level;Уровень: 
+player_rank;Текущий ранг: 
+player_kills;Фрагов:  
+xp_next;опыта до сл. уровня
+is_nick;Имя:
+is_no_bonus;Без бонусов
+is_no_item;Ничего
+mission_developing;Миссия в разработке
+mission_closed;Пройдите предыдущую миссию на 3 звезды.
+episode_developing;Эпизод в разработке
+MissionType[0];<empty>
+MissionType[1];Найти выход
+MissionType[2];Продержаться {0}
+MissionType[3];Убить {0} {1} 
+MissionType[4];Найти {0}
+MissionType[5];Найти {0} за {1}
+MissionType[6];Убить {0} {1} за {2}
+CubesTypes[0];Природные
+CubesTypes[1];Строительные
+CubesTypes[2];Декоративные
+CubesTypes[3];Стекло
+CubesTypes[4];Вода
+CubesTypes[5];Металлы
+DecorTypes[0];Свет
+DecorTypes[1];Мебель
+DecorTypes[2];Двери
+DecorTypes[3];Лестницы
+DecorTypes[4];Растения
+DecorTypes[5];Декор
+DecorTypes[6];Респаун
+DecorTypes[7];Дороги
+DecorTypes[8];Оружия
+DecorTypes[9];Монстры
+ItemsTypes[0];Строительные
+ItemsTypes[1];Спец. предметы
+ItemsTypes[2];Боевые
+ItemsTypes[3];Движения
+WeaponTypes[0];Оружие
+WeaponTypes[1];Патроны
+CharacterPages[0];Сводка
+CharacterPages[1];Одежда
+CharacterPages[2];Параметры
+CharacterPages[3];Статус V.I.P.
+DeviceTypes[0];Переключатели\nи провода
+DeviceTypes[1];Двери, лифты\nплатформы...
+DeviceTypes[2];Транспорт
+ClothesType[0];Скины
+ClothesType[1];Голова
+ClothesType[2];Торс
+ClothesType[3];Спина
+ClothesType[4];Руки
+ClothesType[5];Ноги
+ClothesType[6];Плечи
+monsterName[0];Зомби
+monsterName[1];Агент
+monsterName[2];Зомби-солдат
+monsterName[3];Зомби-шахтёр
+monsterName[4];Демон
+monsterName[5];Резак
+monsterName[6];DEAD-Мороз
+AAnames[0];Дверь вертикальная
+AAnames[1];Дверь горизонтальная
+AAnames[2];Лифт
+AAnames[3];Силовое поле
+triggerTypeName[0];Переключатель (вкл/выкл)
+triggerTypeName[1];Включить (открыть)
+triggerTypeName[2];Выключить (закрыть)
+triggerTypeName[3];Телепорт
+triggerTypeName[4];Выход
+triggerConditionActivateName[0];Игрок рядом
+triggerConditionActivateName[1];Игрок нажал
+triggerConditionActivateName[2];Получен урон
+triggerNeedKeyName[0];Красный ключ
+triggerNeedKeyName[1];Зелёный ключ
+triggerNeedKeyName[2];Синий ключ
+triggerNeedKeyName[3];Золотой ключ
+gameItemsNames[0];Факел
+gameItemsNames[1];Ступеньки К
+gameItemsNames[2];Ступеньки Д
+gameItemsNames[3];Лестница
+gameItemsNames[4];Дверь
+gameItemsNames[5];Стальная дверь
+gameItemsNames[6];Стальная дверь 2
+gameItemsNames[7];Двойная д. дверь
+gameItemsNames[8];Двойная с. дверь
+gameItemsNames[9];Ворота
+gameItemsNames[10];Светильник
+gameItemsNames[11];Люстра
+gameItemsNames[12];Красный шар
+gameItemsNames[13];Зелёный шар
+gameItemsNames[14];Синий шар
+gameItemsNames[15];Бочка
+gameItemsNames[16];Железная бочка
+gameItemsNames[17];Железная бочка 2
+gameItemsNames[18];Гроб
+gameItemsNames[19];Забор
+gameItemsNames[20];Ограда
+gameItemsNames[21];Ограда 2
+gameItemsNames[22];Картина
+gameItemsNames[23];Картина 2
+gameItemsNames[24];Скамейка
+gameItemsNames[25];Скамейка 2
+gameItemsNames[26];Грибы
+gameItemsNames[27];Папоротник
+gameItemsNames[28];Ромашки
+gameItemsNames[29];Трава
+gameItemsNames[30];Цветочки
+gameItemsNames[31];Стол 1
+gameItemsNames[32];Стол 2
+gameItemsNames[33];Стул
+gameItemsNames[34];Сундук
+gameItemsNames[35];Факел
+gameItemsNames[36];Куб-лампа(бел)
+gameItemsNames[37];Куб-лампа(син)
+gameItemsNames[38];Куб-лампа(зел)
+gameItemsNames[39];Респаун
+gameItemsNames[40];Респаун Красных
+gameItemsNames[41];Респаун Синих
+gameItemsNames[42];Респаун Зелёных
+gameItemsNames[43];Респаун Золотых
+gameItemsNames[44];Респаун патронов
+gameItemsNames[45];Респаун гильз
+gameItemsNames[46];Респаун ракет
+gameItemsNames[47];Респаун энергии
+gameItemsNames[48];Респаун аптечки
+gameItemsNames[49];Респаун брони
+gameItemsNames[50];Респаун ружъя
+gameItemsNames[51];Респаун обреза
+gameItemsNames[52];Респаун УЗИ
+gameItemsNames[53];Респаун автомата
+gameItemsNames[54];Респаун базуки
+gameItemsNames[55];Респаун ПТУРС
+gameItemsNames[56];Респаун зомби
+gameItemsNames[57];Кнопка
+gameItemsNames[58];Рычаг
+gameItemsNames[59];Рычаг на стену
+gameItemsNames[60];Телепортатор
+gameItemsNames[61];Невидимый выключатель
+gameItemsNames[62];Респаун зомби
+gameItemsNames[63];Респаун копа
+gameItemsNames[64];Респаун солдата
+gameItemsNames[65];Респаун шахтёра
+gameItemsNames[66];Респаун демона
+gameItemsNames[67];Спрятанный предмет
+gameItemsNames[68];Куб-лампа(жёл)
+gameItemsNames[69];Куб-лампа(кр)
+gameItemsNames[70];Кровать
+gameItemsNames[71];Стальная лестница
+gameItemsNames[72];Веревка
+gameItemsNames[73];Стальные ступеньки
+gameItemsNames[74];Елочка
+gameItemsNames[75];Снежная елочка
+gameItemsNames[76];Большая елочка
+gameItemsNames[77];Квадрик
+gameItemsNames[78];Трамплин 3х1
+gameItemsNames[79];Трамплин 3х2
+gameItemsNames[80];Трамплин 3х3
+gameItemsNames[81];Респаун турели
+gameItemsNames[82];Респаун Банши
+gameItemsNames[98];Ослепляющая граната
+gameItemsNames[99];Взрыв пакет
+gameItemsNames[100];Зелёное дерево
+gameItemsNames[101];Синее дерево
+gameItemsNames[102];Осеннее дерево
+gameItemsNames[103];Вырастить стену
+gameItemsNames[104];Аптечка и броня
+gameItemsNames[106];Запас патронов
+gameItemsNames[107];Динамит
+gameItemsNames[108];Мина
+gameItemsNames[109];Живая вода
+gameItemsNames[110];Дверь вертикальная
+gameItemsNames[111];Дверь горизонтальная
+gameItemsNames[112];Лифтовая шахта
+gameItemsNames[113];Силовое поле
+gameItemsNames[114];Обойма патронов
+gameItemsNames[115];Обойма гильз
+gameItemsNames[116];Провод
+gameItemsNames[117];Обойма ракет
+gameItemsNames[118];Обойма энергии
+gameItemsNames[119];Мега-запас
+gameItemsDesc[0];Освещает тёмные места
+gameItemsDesc[9];Огромные ворота для замков
+gameItemsDesc[10];Электрический фонарь на стену
+gameItemsDesc[11];Свечная люстра для потолка
+gameItemsDesc[12];Красиво освещает тёмные места
+gameItemsDesc[13];Красиво освещает тёмные места
+gameItemsDesc[14];Красиво освещает тёмные места
+gameItemsDesc[35];Факел в землю, освещение больших площадей
+gameItemsDesc[36];Для встраивания в здания
+gameItemsDesc[37];Для встраивания в здания
+gameItemsDesc[38];Для встраивания в здания
+gameItemsDesc[39];Респаун в некомандных режимах.
+gameItemsDesc[40];Респаун красной команды
+gameItemsDesc[41];Респаун синей команды
+gameItemsDesc[42];Респаун зелёной команды
+gameItemsDesc[43];Респаун золотой команды
+gameItemsDesc[44];Появляются в бою через некоторое время
+gameItemsDesc[45];Появляются в бою через некоторое время
+gameItemsDesc[46];Появляются в бою через некоторое время
+gameItemsDesc[47];Появляются в бою через некоторое время
+gameItemsDesc[48];Появляются в бою через некоторое время
+gameItemsDesc[49];Появляются в бою через некоторое время
+gameItemsDesc[50];Появляются в бою через некоторое время
+gameItemsDesc[51];Появляются в бою через некоторое время
+gameItemsDesc[52];Появляются в бою через некоторое время
+gameItemsDesc[53];Появляются в бою через некоторое время
+gameItemsDesc[54];Появляются в бою через некоторое время
+gameItemsDesc[55];Появляются в бою через некоторое время
+gameItemsDesc[56];Монстры появляются в режиме Выживания
+gameItemsDesc[67];Спрячьте предмет, пусть другие поищут
+gameItemsDesc[68];Для встраивания в здания
+gameItemsDesc[69];Для встраивания в здания
+gameItemsDesc[75];Светится гирляндами
+gameItemsDesc[76];Светится гирляндами
+gameItemsDesc[98];Взрыв ослепляет противника
+gameItemsDesc[99];Взрывается при броске
+gameItemsDesc[100];Вырастает зелёное дерево случайного размера
+gameItemsDesc[101];Вырастает синее дерево случайного размера
+gameItemsDesc[102];Вырастает оранжевое дерево случайного размера
+gameItemsDesc[103];Достраивает 4 куба на выбранную грань
+gameItemsDesc[104];Восстанавливает здоровье и броню
+gameItemsDesc[106];Восстанавливает патроны и гильзы
+gameItemsDesc[107];Взрывается через 5 секунд
+gameItemsDesc[108];Взрывается при приближении
+gameItemsDesc[109];Воскрешает персонажа в режиме выживания
+gameItemsDesc[119];300патронов, 100гильз, 50ракет, 300энергии
+specItemsName[0];Ракетный ранец
+specItemsName[1];Русский танец
+specItemsName[2];Крейзи танец
+specItemsName[3];Давай, детка!
+specItemsName[4];Акробат
+specItemsName[5];Ееее!
+specItemsName[6];Победа!
+specItemsName[7];Провал...
+specItemsName[8];За мной!
+specItemsDesc[0];Будет включаться при прыжке
+specItemsDesc[1];Танцевать - русск. Р (англ H)
+specItemsDesc[2];Танцевать - русск. Р (англ H)
+specItemsDesc[3];Танцевать - русск. Р (англ H)
+specItemsDesc[4];Танцевать - русск. Р (англ H)
+specItemsDesc[5];Танцевать - русск. Р (англ H)
+specItemsDesc[6];Танцевать - русск. Р (англ H)
+specItemsDesc[7];Танцевать - русск. Р (англ H)
+specItemsDesc[8];Танцевать - русск. Р (англ H)
+move_learn;Выучить
+RankName[0];Новобранец
+RankName[1];Младший рекрут
+RankName[2];Рекрут
+RankName[3];Старший рекрут
+RankName[4];Рекрут 1 класса
+RankName[5];Солдат
+RankName[6];Рядовой рекрут
+RankName[7];Рядовой 2 класса
+RankName[8];Рядовой
+RankName[9];Рядовой 1 класса
+RankName[10];Специалист
+RankName[11];Старший специалист
+RankName[12];Специалист 1 класса
+RankName[13];Разведчик
+RankName[14];Младший капрал
+RankName[15];Капрал
+RankName[16];Командир
+RankName[17];Сержант 3 класса
+RankName[18];Сержант 2 класса
+RankName[19];Сержант 1 класса
+RankName[20];Коммандор-сержант 3кл.
+RankName[21];Коммандор-сержант 2кл
+RankName[22];Коммандор-сержант 1кл
+RankName[23];Коммандор
+RankName[24];Младший офицер
+RankName[25];Старший офицер
+RankName[26];Младший лейтенант
+RankName[27];Второй лейтенант
+RankName[28];Лейтенант
+RankName[29];Капитан
+RankName[30];Капитан разведки
+RankName[31];Капитан спецназа
+RankName[32];Подполковник
+RankName[33];Полковник
+RankName[34];Генерал
+RankName[35];Генерал Армии
+RankName[36];Главнокомандующий
+RankName[37];Маршал
+RankName[38];Капитан отряда
+RankName[39];Майор отряда
+RankName[40];Генерал-лейтенант
+RankName[41];Полковник отряда
+RankName[42];Генерал-полковник
+RankName[43];Маршал отряда
+RankName[44];Мститель
+RankName[45];Безумец
+findPrefabsNames[0];Секретный документ
+findPrefabsNames[1];Уран
+newMapTypeName[0];Залив
+newMapTypeName[1];Остров
+newMapTypeName[2];Плоская
+newMapTypeName[3];Река
+newMapTypeName[4];Развилка
+newMapTypeName[5];Большая плоская
+advices[0];Цветные китайские шары светятся просто волшебно в темноте!
+advices[1];Ракета из ПТУРС управляется мышкой.
+advices[2];Одежда даёт  бонусы к характеристикам!
+advices[3];Не забудьте купить патронов для боя!
+advices[4];Для VIP игроков доступны особые формы кубов.
+advices[5];F10 - не забывайте сохранять свою карту!
+advices[6];F10 - не забывайте сохранять свою карту!
+advices[7];Со статусом V.I.P. все кубы бесплатные
+advices[8];Со статусом V.I.P. быстрее накапливается уровень и деньги
+advices[9];Нажмите V для использования голосового чата
+advices[10];Игра, в которой играет друг, сразу отобразится в сетевой битве справа.
+advices[11];Пройдите по гробу погибшего игрока и он воскреснет
+advices[12];В режиме выживания опыта за фраг получается в 10 раз меньше, чем в битве.
+advices[13];Если удалить предмет с карты - он НЕ появится в инвентаре
+advices[14];Не нравится ваша карта, а новый слот не по карману? Перегенерируйте карту!
+advices[15];На 5 день игры Вам дадут бонус - 2 золотых.
+advices[16];Инвентарь(С)-Перс-VIP - будь круче на 2 звезды!
+advices[17];Инвентарь(С)-Перс-VIP - будь круче на 2 звезды!
+gameTypeStr[0];Модно все
+gameTypeStr[1];Строительство
+gameTypeStr[2];Каждый сам за себя
+gameTypeStr[3];Выживание
+gameTypeStr[4];Команды
+gameTypeStr[5];Миссия
+buildinMapName[0];Перекрёстный огонь
+buildinMapName[1];Мясной куб
+buildinMapName[2];Город
+buildinMapName[3];Бассейн
+buildinMapName[4];Особняк
+buildinMapName[5];Склад
+buildinMapName[6];Остров
+buildinMapName[7];Зион-Тех
+buildinMapName[8];В песках
+buildinMapName[9];Зомби-сити
+buildinMapName[10];Арена
+buildinMapName[11];Бибз
+buildinMapName[12];Страйк
+buildinMapTeamsName[4];Assault Pro
+buildinMapTeamsName[5];Мотель
+buildinMapTeamsName[0];Река
+buildinMapTeamsName[1];Арена
+buildinMapTeamsName[2];Две башни
+buildinMapTeamsName[3];Страйк
+teamName[0];Красные
+teamName[1];Синие
+teamName[2];Зелёные
+teamName[3];Золотые
+graphStrs[0];Быстрейшая
+graphStrs[1];Быстрая
+graphStrs[2];Простая
+graphStrs[3];Хорошая
+graphStrs[4];Отличная
+graphStrs[5];Фантастика
+weaponNames[0];Кирка
+weaponNames[1];Пигаль
+weaponNames[2];Ружьё
+weaponNames[3];Обрез
+weaponNames[4];Узи
+weaponNames[5];Автомат
+weaponNames[6];Базука
+weaponNames[7];ПТУРС
+weaponNames[8];Лазерный меч
+weaponNames[9];Меч
+weaponNames[10];Плазмоган
+weaponNames[11];Снайперка
+weaponNames[12];Миниган
+weaponNames[13];Огнемёт
+weaponNames[14];Бензопила
+weaponNames[15];Бита
+weaponNames[16];Пулемёт
+weaponNames[17];Гранатомёт
+weaponNames[18];Калашников
+weaponNames[19];БФГ
+weaponNames[20];Риппер
+weaponNames[21];Лазер
+weaponNames[22];Пистолет
+weaponNames[23];Плазменная снайперка
+weaponNames[24];Волшебная палочка
+weaponNames[25];Снежная пушка
+weaponNames[26];Плазменный гранатомёт
+weaponNames[27];Плазмомёт
+weaponNames[28];Выжигатель
+weaponNames[29];Спец. пистолет
+weaponNames[30];Тактический дробовик
+weaponNames[31];Бронебойная снайперка
+clothesName[3];Ковбойская шляпа
+clothesName[4];Ковбойская шляпа
+clothesName[5];Ковбойская шляпа
+clothesName[6];Зелёные боты
+clothesName[7];Малиновые боты
+clothesName[8];Гриндерсы
+clothesName[9];Боевые берцы
+clothesName[10];Походные берцы
+clothesName[11];Железные боты
+clothesName[12];Космоботы
+clothesName[13];Причёска Бибер
+clothesName[14];Причёска
+clothesName[15];Причёска Эмо
+clothesName[16];Причёска каштан
+clothesName[17];Причёска блондин
+clothesName[18];Кепка
+clothesName[19];Зелёный ирокез
+clothesName[20];Фиолетовый ирокез
+clothesName[21];Красный ирокез
+clothesName[22];Жёлтый ирокез
+clothesName[23];Афро
+clothesName[24];Причёска Рэмбо
+clothesName[25];Железный шлем
+clothesName[26];Каска
+clothesName[27];Шлем
+clothesName[28];Шлем Вейдера
+clothesName[29];Шлем Сталкера
+clothesName[30];Броня Сталкера
+clothesName[31];Броня Вейдера
+clothesName[32];Бронежилет
+clothesName[33];Железная броня
+clothesName[34];Лента патронов
+clothesName[35];Золотая цепь
+clothesName[36];Ранец Сталкера
+clothesName[37];Рюкзак
+clothesName[38];Портфель
+clothesName[39];Наплечники сталкера
+clothesName[40];Наплечники Вейдера
+clothesName[41];Железные наплечники
+clothesName[42];Наручи сталкера
+clothesName[43];Наручный планшет
+clothesName[44];Железный наруч
+clothesName[45];Напульсник
+clothesName[46];Часы
+clothesName[47];Голубая причёска
+clothesName[48];Женский рюкзак
+clothesName[49];Маска Резака
+clothesName[50];Маска Гая Фокса
+clothesName[51];Колдовской колпак
+clothesName[52];Колдовской колпак
+clothesName[53];Тыква
+clothesName[54];Очки
+clothesName[55];Каска
+clothesName[56];Фуражка
+clothesName[57];Шапка
+skinName[0];Стандарт
+skinName[1];Друган
+skinName[2];Афро
+skinName[3];Сталкер
+skinName[4];Солдат
+skinName[5];Рэмбо
+skinName[6];Железный человек
+skinName[7];Вейдер
+skinName[8];Агент
+skinName[9];Девочка
+skinName[10];Коп
+skinName[11];Дед Мороз
+bulletsNames[0];Патроны
+bulletsNames[1];Гильзы
+bulletsNames[2];Ракеты
+bulletsNames[3];Энергия
+bulletsNames[4];Плазма
+bulletsNames[5];Патроны 7.62
+bulletsNames[6];Уран
+bulletsNames[7];Ракеты ПТУРС
+bulletsNames[8];Гранаты
+bulletsNames[9];Патроны .300
+AAS_Position;Положение
+AAS_Upper;Выше
+AAS_Lower;Ниже
+AAS_Far;Дальше
+AAS_Near;Ближе
+AAS_Right;Правее
+AAS_Left;Левее
+AAS_Size;Размеры
+AAS_Higher;Выше
+AAS_Smaller;Ниже
+AAS_Longer;Длиннее
+AAS_Shorter;Короче
+AAS_Wider;Шире
+AAS_Uje;Уже
+AAS_Opening_for_N_sec;Открывается за
+sec;сек
+AAS_rotation;Поворот
+save;Сохранить
+BCS_cant_save_if_joined;---Свою карту нельзя сохранить, если Вы присоединились к игре!---
+BCS_only_owner_can_save;---Только владелец карты может её сохранить!---
+BCS_cant_save_in_battle;---Карты нельзя сохранять в бою!---
+BCS_end_round;Конец раунда
+BCS_levelUpStrs[0];УРА! УРА! УРА!!!
+BCS_levelUpStrs[1];ТАК ДЕРЖАТЬ!
+BCS_levelUpStrs[2];ОТЛИЧНО!
+BCS_levelUpStrs[3];ВЕЛИКОЛЕПНО!
+BCS_levelUpStrs[4];С ПОВЫШЕНИЕМ!
+BCS_endGame_timeout;ВРЕМЯ ВЫШЛО!
+BCS_endGame_ban;ВАС ЗАБАНИЛИ!
+BCS_endGame_noSuvivours;Никто не выжил...
+BCS_endGame_gameOver;ИГРА ЗАВЕРШЕНА!
+BCS_endGame_lostConnection;Потеряно соединение...
+BCS_endGame_tryAgain;Попробуй ещё раз!
+BCS_ban_from_server;--- Вас выгнали с сервера ---
+BCS_disable_miscrophone;Отключить микрофон
+BCS_to_speak_press;Чтобы говорить нажмите V
+BCS_enable_microphone;Включить микрофон
+BCS_then_press_allow;Затем нажмите Allow
+BCS_get_VIP_to_speak;Получить статус V.I.P.\nчтобы использовать\nмикрофон
+BCS_start_test;Начать тест карты
+BCS_resume_game;Продолжить игру (`)
+BCS_save_map;Сохранить карту (F10)
+BCS_inventory_shop;Инвентарь/магазин (C)
+BCS_exit_from_game;Выйти из игры
+BCS_allowed;РАЗРЕШЕНО
+BCS_notallowed;ЗАПРЕЩЕНО
+BCS_noobs_to_build;Новым игрокам строить
+BCS_forbidBuild;Запретить строить
+BCS_allowBuild;Разрешить строить
+BCS_ban;БАН
+BCS_end_test;Закончить тест карты
+BCS_name;Ник
+BCS_frags;Фрагов
+BCS_deathes;Смертей
+BCS_wait_while_saving;Подождите, карта сохраняется...
+BCS_dont_forget_save_map;НЕ ЗАБУДЬТЕ\nСОХРАНИТЬ\nКАРТУ!
+BCS_save_and_exit;СОХРАНИТЬ И ВЫЙТИ
+BCS_dont_save_exit;Не сохранять. Выйти.
+BCS_new_level;Новый уровень!
+BCS_new_rang;Ваш новый ранг
+next;Дальше
+BCS_exp;Опыта
+BCS_time;Время
+BCS_frags_per_minute;Фрагов в минуту
+BCS_earned;За бой заработано
+BCS_choose_team;ВЫБЕРИТЕ КОМАНДУ
+score;Счёт
+BCS_enter;Вступить
+BCS_loading;Загружаем...
+BCS_advice;Совет
+BCS_speak_then_release;Говорите, потом\nотпустите V
+BCS_speaker_disabled;---Микрофон выключен. Нажмите Esc(`)---
+howto_play;F1 - как играть?
+howto_menu;Esc(`) - меню
+howto_close;F1 - закрыть справку
+howto_walk;Ходить - ASDW
+howto_jump;Прыжок - пробел
+howto_placeCube1;Поставить куб/предмет
+howto_placeCube2;правая кнопка мыши
+howto_removeCube1;Убрать куб
+howto_removeCube2;левая кнопка мыши
+howto_inventory;C - инвентарь
+howto_chooseItem;1,2,3... - выбор ячейки
+howto_savemap;F10 - сохранить карту
+howto_chat;Enter - чат
+howto_voiceChat;V - голосовой чат
+howto_fullscreen;F12 - полный экран
+howto_options;O - настройки
+speedHackDetected;Обнаружена попытка читерства - SpeedHack
+strTutor[0];Добро пожаловать на полигон, солдат! Твоё обучение будет проходить в обстановке, близкой к боевой! Итак, задание - найти проход к заброшенной лаборатории! Осмотрись, и найди для начала выход из этого грота!
+strTutor[1];Кажется, это чёрный вход. Эта дверь ведёт к лаборатории. Нажми на кнопку, чтобы открыть дверь.
+strTutor[2];Столб пыли в конце комнаты - это секретная разработка антигравитационного лифта! Чтобы включить его - нажми кнопку слева от лифта.
+strTutor[3];Молодец! Мне нравится, как ты справляешься! В конце этого коридора, должна быть дверь - похоже, мы дошли до лаборатории!
+strTutor[4];Замри! Видишь - в соседней комнате стоит враг - зомби. Возьми кирку и уничтожь врага! (нажмите С)
+strTutor[5];Боец, ты не перестаёшь меня удивлять! Дальше будет веселее.
+strTutor[6];Теперь нужно освоить более мощное оружие. Возьми этот автомат.
+strTutor[7];Оружие можно прокачать в инвентаре, заодно и увеличить количество патрон
+strTutor[8];Базука... А за дверью толпа зомби.. Ты знаешь, что делать...
+strTutor[9];Отлично, боец! Давай в телепорт, ты великолепно себя показал!
+strTutor[20];А вот и твой мир! Давай, я расскажу, как в нём строить.
+strTutor[23];Молодец! Смотри, наступила ночь! Нужно больше света!
+strTutor[24]Нажми С - Предметы - купи ФАКЕЛ и поставь на карту
+strTutor[25];Отлично! Осталось сохранить твою карту! Нажми F10.
+strTutor[26];Теперь можно построить все что угодно! Желаем приятной стройки!
+miniStrTutor[0];Найди туннель в пещере
+miniStrTutor[1];Нажать на рычаг, чтобы открыть дверь
+miniStrTutor[2];Нажать кнопку, чтобы включить лифт
+miniStrTutor[3];Дойти до лаборатории
+miniStrTutor[4];Уничтожить зомби киркой
+miniStrTutor[5];Подняться по ступенькам на поверхность
+miniStrTutor[6];Взять автомат
+miniStrTutor[7];Нажать R и купить патронов
+miniStrTutor[8];Уничтожить всех зомби
+miniStrTutor[9];Шагнуть в телепорт
+miniStrTutor[25];Сохраните карту - F10
+tutor_need_reload;Нажмите R, чтобы использовать обойму
+tutor_reload;R - перезарядка
+tutor_choose_weapons;Выберите раздел 'Оружие'
+tutor_choose_bullets;Выберите раздел 'Патроны'
+tutor_buy_ammo;Купите обойму
+tutor_close_inventory;Закройте инвентарь (С или крестик)
+tutor_kill_monsters;Откройте дверь и уничтожьте монстров
+tutor_placeCube;Поставьте куб правой кнопкой мыши
+tutor_placeMoreCubes;Поставьте ещё кубов
+tutor_open_inventory;Нажмите C, чтобы открыть инвентарь
+tutor_choose_cubes;Выберите раздел 'Кубы'
+tutor_choose_nature;Выберите раздел 'Природные'
+tutor_choose_any_cube;Выберите любой куб
+tutor_place_cube_inventar;Положите куб в быстрый инвентарь
+tutor_remove_cube;Разрушьте куб левой кнопкой мыши
+tutor_remove_cubes_more;Разрушьте ещё кубов
+tutor_place_fire;Поставьте факел правой кнопкой мыши
+tutor_choose_decor;Выберите раздел 'Декорации'
+tutor_choose_light;Выберите раздел 'Свет'
+tutor_choose_fire;Выберите факел
+tutor_buy_one_fire;Купите 1 факел
+tutor_place_fire_inventar;Положите факел в быстрый инвентарь
+tutor_kill_zombie_and_go;Убейте зомби и пройдите дальше в дверь
+tutor_choose_axe;Выберите кирку
+tutor_buy_axe_forever;Купите кирку навсегда
+tutor_place_axe_inventar;Положите кирку в быстрый инвентарь
+short_name;--- Имя должно быть длиннее 3 символов ---
+rang_table;Таблица рангов
+params_health;Макс. здоровье
+params_armor;Макс. броня
+param_speed;Скорость
+param_jump;Прыжок
+param_defend;Стойкость
+vip_not_enougth;VIP - Не хватает монет
+vip_activated;Статус V.I.P. активирован.
+bank_name;БАНК
+inventory_name;ИНВЕНТАРЬ
+maximum;Максимум
+hello_chiter;Привет, читер. Попытка записана в базу. Больше так не делай.
+server_error;На сервере произошел сбой.
+ban_cheater;Привет, читер. Тебя забанили. Если ты не виноват обратись к администрации группы.
+loading_data;Загрузка данных.
+newGameMapTypeStr[0];Мои Карты
+newGameMapTypeStr[1];Встроенные карты
+filterGameTypeStr[0];Любой тип битвы
+filterGameTypeStr[1];Каждый сам за себя
+filterGameTypeStr[2];Строительство
+filterGameTypeStr[3];Выживание
+filterGameTypeStr[4];Команды
+mapCanBreakStr[0];Неважно
+mapCanBreakStr[1];Без разрушений
+mapCanBreakStr[2];С разрушениями
+mapDayLightStr[0];Неважно
+mapDayLightStr[1];День
+mapDayLightStr[2];Смена дня и ночи
+mapDayLightStr[3];Ночь
+serverTypeStr[0];Сервера
+serverTypeStr[1];Мои\nкарты
+serverTypeStr[2];Любая\nкарта
+begin_game;Начать игру
+any_map;Любая карта
+map;Карта
+self_map;Карта игрока
+wrong_password;НЕВЕРНЫЙ ПАРОЛЬ! (пароль пишется внизу справа)
+respawnTimeStr[0];10 сек
+respawnTimeStr[1];30 сек
+respawnTimeStr[2];1 мин
+respawnTimeStr[3];2 мин
+respawnTimeStr[4];5 мин
+respawnTimeStr[5];10 мин
+respawnTimeStr[6];30 мин
+respawnTimeStr[7];нет
+monster_options;Настройка точки возрождения монстра
+monster_type;Тип монстра
+ressurection_time;Время возрождения
+error_empty_map;Пустая карта - попробуйте другую игру
+player_can_build_now;теперь может строить
+player_cant_build_now;запрещено строить!
+opt_name;Настройки
+opt_graph;Графика
+opt_worse;Хуже
+opt_better;Лучше
+opt_sound;Звук
+opt_silent;..aa..
+opt_louder;!!AA!!
+opt_empty_screen;Чистый\nэкран
+opt_smooth_follow;Сглаженное\nдвижение
+opt_close;Закрыть(O)
+connect_failed;Не удалось присоединиться...
+create_room_failed;Не удалось создать комнату...
+put_on_items;--- Поставьте на выключатели ---
+cube_occupied;--- Этот куб занят ---
+to_delete_press;Нажмите (DEL) чтобы удалить
+to_move_press;Нажмите (E) чтобы переместить
+to_activate_press;Нажмите (F) чтобы активировать
+to_rotate_press;Нажмите (R) чтобы повернуть
+to_edit_press;Нажмите (T) чтобы настроить
+cant_build_ask_admin;Стройка запрещена. Обратитесь к Администратору карты.
+cant_change_world;В этом режиме нельзя изменять мир.
+not_enougth_cubes;Больше нет кубов. В бой!
+beside_world;--- За пределами карты ---
+place_on_cube_side;--- поставьте на боковую сторону куба ---
+place_on_ceil;--- устанавливается на потолок ---
+cant_already_remove;Ломать больше нельзя. В бой!
+find_item_choose_type;Выберите тип предмета
+find_item_type;Тип предмета
+apply;ПРИМЕНИТЬ
+_for;за
+ps_choose_new_item_place;Выберите новое место для установки предмета.
+ps_press_for_respawn;Нажмите прыжок(пробел) для респауна
+ps_you_dead_try_again;Вы погибли попробуйте начать миссию заново
+ps_survival_dead;Вы возродитесь в начале следующей волны, либо если мимо места гибели пройдёт другой игрок.
+ps_survival_if_VIP;Если у Вас статус V.I.P., Вы возродитесь через 30с.
+ps_use_vita_water;Для возрождения используйте Живую Воду (Инвентарь(С)-Предметы)
+ps_press_for_use_vita_water;Для возрождения нажмите X - вас восстановит Живая Вода
+ps_before_respawn_secs;До возрождения осталось
+ps_health_and_armor_restored;Здоровье и броня восстановлены
+ss_loading;Загрузка
+social_tell_friends;Рассказать друзьям
+social_menu;Добавить в меню
+social_invite_friends;Пригласить друзей
+social_group;Вступить в группу
+social_invite_num_friends;Пригласить 3x друзей
+social_tell_about_game;Рассказать о игре
+social_install_game;Установить приложение
+trig_options;Настройка выключателя
+trig_type;Тип выключателя
+trig_triggered_if;Срабатывает, если:
+trig_need_for_triggering;Для срабатывания нужен:
+trig_mission_exit;Выход из миссии!
+wire_put_on_switch;Провод можно ставить только на выключатель!
+wire_options;Настройка провода
+wire_signal_delay;Задержка сигнала
+wire_connected_with;Провод подсоединён к
+wire_not_connected;не подсоединён
+wire_connected_moveable_cubes;Подвижные кубы
+wire_connected_switch;Выключатель
+wire_connected_item;Предмет
+wire_connected_coords;Координаты
+wire_connect_to;Поключить провод
+wire_choose_connect_to;Выберите место, куда подключить провод. (Для телепорта - просто куб, для подключения - подвижные кубы, предметы, выключатели.
+plazm_grenade_gun;Плазменный гранатомет
+seconds;Секунд
+secondu;Секунду
+secondy;Секунды
+minutes;Минут
+minutu;Минуту
+minuty;Минуты
+monsters;Монстров
+monstra;Монстра
+viral_title;Выполни задание и получи награду
+viral_bonus;Награда
+player_exit;вышел из игры
+player_joined;присоединился к игре
+need_bullets_nothing;ничего
+need;Нужен
+put_on;Одеть
+activities_title;Движения
+offer_text[0];Дамы и господа, торопитесь только сегодня действует уникальная распродажа. Скидки в магазине на указанные товары 50%
+offer_text[1];Выгодная цена на золото
+offer_text[2];Больше баксов и опыта на миссиях
+monster_health_mult;Множитель здоровья
+monster_damage_mult;Множитель урона
+monster_state;С этими параметрами у монстра новый статус
+boss;БОСС
+newYearBoss_mission_adv;Проверь себя! Новогодний БОСС!
+newYearBoss_mission_need_level;Необходим 5 уровень.
+transport_options;Настройка точки возрождения транспорта
+transport_type;Тип транспорта
+transportName[0];Квадроцикл
+transportName[1];Турель
+transportName[2];Банши
+to_drive_press;Нажмите (E), чтобы  управлять
+no_place_to_drive;--- Все места заняты! ---
+press_to_end_drive;Нажмите (X), чтобы выйти
+mission_name[1];Обучение
+mission_name[4];Защита деревни
+mission_name[5];Поиск чертежей
+mission_name[6];Последняя оборона
+mission_name[7];Зачистка парка
+mission_name[10];Радиоактивность
+mission_name[11];Вторая волна
+mission_name[12];База Альфа
+mission_name[13];Вектор
+mission_name[14];Танковый Завод
+mission_name[15];Фабрика страха
+mission_name[16];Тайник мертвеца
+mission_name[17];Блекджек
+mission_name[18];Контроль
+mission_name[19];Тагил
+mission_name[20];Плоскость
+mission_name[21];Крамп
+mission_name[22];Чайна-Таун
+mission_name[23];Осада
+mission_name[24];Крест
+mission_name[26];Выжить!
+mission_name[27];Уничтожить!
+mission_name[28];Найти!
+mission_name[29];Собрать!
+mission_name[30];Выйти!
+mission_name[31];Зачистить!
+shots_per_sec;Выстр. в сек: 
+requireBullets;Нужно: 
+for_fullScreen_press;Полноэкранный режим - F12
+pieses;Кол-во
+Buy;Купить
+social_folow_fanpage;Подписаться на страницу
+you_killed;Вы убили
+you_was_killed_by;Вы были убиты
+killed;убил
+to_next_round_last;До следующего раунда
+shooter_end_battle;Закончить битву
+winner_place[0];1 место
+winner_place[1];2 место
+winner_place[2];3 место
+dead_by_nature;погиб
+dead_himself;самоуничтожился
+dead_by_zombie;съели
+clothesName[58];Экзо-броня
+clothesName[59];Экзо-боты
+clothesName[60];Экзо-шлем
+clothesName[61];Экзо-щитки
+clothesName[62];Экзо-броня
+clothesName[63];Экзо-боты
+clothesName[64];Экзо-шлем
+clothesName[65];Экзо-щитки
+clothesName[66];Уши кролика
+clothesName[67];Крылья
+buildinMapName[13];Мотель
+buildinMapName[14];Мясорубка
+skinName[12];Экзо
+skinName[13];Spaceman
+skinName[14];Рыцарь
+buildinMapName[15];Река
+buildinMapName[16];Залив
+buildinMapName[17];Остров
+buildinMapName[18];Плоская
+buildinMapName[19];Перекресток
+buildinMapName[20];Река
+buildinMapName[21];Арена
+buildinMapName[22];Две башни
+buildinMapName[23];Страйк
+buildinMapName[24];Assault Pro
+buildinMapName[25];Мотель
+online;Онлайн
+building;Стройка
+mapsTop;Картотоп
+anyBattle;Любая битва
+withFriends;С друзьями
+createGame;Создать игру
+friendsMaps;Карты друзей
+findMap;Найти карту
+buySlotFor10;Купить слот за 10
+allMaps;Все карты
+addFor10;Добавить за 10
+accuracy;Точность
+nearFight;Ближний бой
+lightWeapon;Лёгкое
+shotguns;Дробовики
+assaults;Штурмовое
+heavy;Тяжёлое
+precision;Высокоточное
+equipment;Снаряжение
+weapons;Оружие
+dances;Танцы
+myClan;Мой клан
+allClans;Все кланы
+createFor10;Создать за 10
+edit;Редактировать
+leave;Покинуть
+gameType;Режим игры
+add;Добавить
+addMap;Добавить карту
+mapCanBreake1;Без разрушений
+weapon_upgrade_name0;Урон
+weapon_upgrade_name2;Скорострельность
+weapon_upgrade_name3;Обойма
+weapon_upgrade_name4;Начальный запас
+is_tabs0;Кубы
+tabsItems;Предметы
+is_tabs2;Механизмы
+is_tabs3;Респауны
+clanShort;Сокращение
+clanURL;Страница
+clanName;Название
+clanJoin;Вступить
+clan;Клан
+myMap;Моя карта
+find;Найти
+clear;Очистить
+buyToUpgrade;Чтобы прокачать, купите навсегда
+message;Сообщение
+start;Старт
+buildinMaps;Встроенные карты
+music;Музыка
+mouseSens;Чувств. мыши
+sound;Звук
+settings;Настройки
+graph;Графика
+resolution;Разрешение
+activate;Активировать
+close;Закрыть
+character;Перс
+main;Главная
+game;Игра
+arsenal;Арсенал
+career;Карьера
+fastBattle;Быстрый бой!
+use;Использовать
+needParamsUpgradeNow;Прокачать ВСЁ сейчас за
+needParamsToBuy1;Требуется
+needParamsToBuyLevel;уровень
+Upgrade;Улучшить
+weapon_upgrade_name[0];Урон
+weapon_upgrade_name[1];Разброс
+weapon_upgrade_name[2];Скорострельность
+weapon_upgrade_name[3];Обойма
+weapon_upgrade_name[4];Начальный запас
+twiceGoldForFirstDonate;В 2 раза больше монет за первый платёж!
+DecorTypesNew[0];Свет
+DecorTypesNew[1];Мебель
+DecorTypesNew[2];Двери
+DecorTypesNew[3];Лестницы
+DecorTypesNew[4];Растения
+DecorTypesNew[5];Декор
+DecorTypesNew[6];Дороги
+DeviceTypes[3];Ускорители
+gameItemsNames[90];Респаун БТР
+episode4;Выживший
+episode5;Заражение
+episode6;Полураспад
+episode7;Одиночество
+episode8;Затмение
+filterGameTypeStr[5];Захват флага
+filterGameTypeStr[6];Доминирование
+gameTypeStr[6];Захват флага
+gameTypeStr[7];Доминирование
+gameTypeStr[8];Заражение
+mission_name[32];Страх!
+mission_name[33];Форпост
+mission_name[34];Скала
+mission_name[35];Лаборатория Зла
+mission_name[36];Начало
+mission_name[37];Зона заражения
+mission_name[38];Переправа
+mission_name[39];Промзона
+mission_name[40];Крушение
+mission_name[41];Сумеречный лес
+mission_name[42];Спасение
+mission_name[43];Дамба
+mission_name[44];Гроты Смерти
+mission_name[45];Космопорт
+mission_name[46];Астероид Омега
+mission_name[47];Поместье
+mission_name[48];Райский уголок
+mission_name[49];Дорога на запад
+mission_name[50];Разрушенный город
+mission_name[51];Лаборатория
+mission_name[52];Тайный город
+mission_name[53];Глубина
+mission_name[54];База гамма
+mission_name[55];Тупик
+mission_name[56];Арена Тесла
+mission_name[57];ПКСЛ8
+mission_name[58];Деревня шахтёров
+mission_name[59];Астранда
+mission_name[60];Атлантида
+mission_name[61];Академия
+mission_name[62];Лаборатория Альбадор
+mission_name[63];Стройка
+mission_name[64];Пустыня
+mission_name[65];Стена плача
+mission_name[66];ECIP-18
+mission_name[67];Деревушка
+mission_name[68];Пещера
+mission_name[69];Заброшенный порт
+mission_name[70];Скрытый храм
+mission_name[71];
+mission_name[72];Тропик
+mission_name[73];Аквапарк
+mission_name[74];Квартал
+mission_name[75];Артерия
+mission_name[76];Карьер
+mission_name[78];Заброшенная шахта
+mission_name[79];Тайный храм
+mission_name[80];Лаборатория 776
+mission_name[81];Чернобыль
+mission_name[82];Север
+mission_name[83];Тёмный путь
+mission_name[84];Эстейт
+mission_name[85];Тихое место
+mission_name[86];Поселение
+createForX;Создать за {0}
+myMapsListTutor;Выберите карту из списка. Вы можете строить свои карты в одиночку или с друзьями, а затем играть в свои карты по сети.
+bonusName[0];ПОДРЫВ
+bonusName[1];ДВОЙНОЙ ПОДРЫВ
+bonusName[2];ВЗРЫВ
+bonusName[3];ДВОЙНОЙ ВЗРЫВ
+bonusName[4];2 ФРАГА
+bonusName[5];5 ФРАГОВ
+bonusName[6];7 ФРАГОВ
+bonusName[7];10 ФРАГОВ
+bonusName[8];ХЭДШОТ
+bonusName[9];ХЭДШОТ 3
+bonusName[10];ХЭДШОТ 5
+bonusName[11];СПАСАТЕЛЬ
+bonusName[12];5 СПАСЁННЫХ
+bonusName[13];СВЯТОЙ
+bonusName[14];РУКОПАШКА
+bonusName[15];РУКОПАШКА 3
+bonusName[16];САМОУБИЙЦА
+bonusName[17];КОМАНДА-ПОБЕДИТЕЛЬ
+bonusName[18];1 МЕСТО
+bonusName[19];2 МЕСТО
+bonusName[20];3 МЕСТО
+bonusName[21];ЗАХВАТ ФЛАГА
+bonusName[22];МИССИЯ ПРОЙДЕНА
+bonusName[23];5 зомби
+bonusName[24];20 зомби
+bonusName[25];50 зомби
+bonusName[26];3 демона
+bonusName[27];10 демонов
+bonusName[28];3 зомби взрывом
+bonusName[29];20 зомби взрывом
+bonusName[30];50 зомби взрывом
+bonusName[31];Уничтожение техники
+bonusName[32];3 техники
+bonusName[33];1 волна
+bonusName[34];3 волны
+bonusName[35];5 волн
+bonusName[36];10 волн
+bonusName[37];50 кубов
+bonusName[38];150 кубов
+bonusName[39];5 предметов
+bonusName[40];20 предметов
+bonusName[41];Механизм
+frags_killed;Фрагов
+dialog_next;Продолжить
+exitGame;Вы сейчас покинете игру и вернетесь в главное меню игры.\n\nУверены?
+exit;Выход
+gameItemsNames[83];Красный флаг
+gameItemsNames[84];Синий флаг
+gameItemsNames[85];Зелёный флаг
+gameItemsNames[86];Золотой флаг
+gameItemsNames[87];Респаун снайперки
+gameItemsNames[88];Респаун выжигателя
+gameItemsNames[89];Точка доминирования
+gameItemsNames[90];Армейский БТР
+gameItemsNames[91];Респаун Резак
+gameItemsNames[92];Джампер
+gameItemsNames[93];Пушер
+gameItemsNames[94];Комп
+gameItemsNames[95];Стильный Комп
+gameItemsNames[96];Зомби Агент
+gameItemsNames[97];Зомби Сталкер
+SpawnerTypes[0];Оружия
+SpawnerTypes[1];Монстры
+SpawnerTypes[2];Игровые
+SpawnerTypes[3];Другое
+buildinMapName[26];Луммокс
+buildinMapName[27];Арголис
+pauseMenu_rank;Ранг
+pauseMenu_name;Имя
+pauseMenu_kills;Фрагов
+pauseMenu_deathes;Смертей
+pauseMenu_ban;Бан
+pauseMenu_allow;Разрешить/запретить
+pauseMenu_beginTest;Начать тест
+pauseMenu_saveMap;Сохранить карту
+pauseMenu_healers;Помощь
+pauseMenu_gamers;Игроки
+pauseMenu_wave;Волна:
+pauseMenu_score;Очки
+clan_fail_new;Не удалось создать клан
+clan_url_default;Введите ссылку на группу, например http://vk.com/club52386046
+gameItemsNames[120];Дверь
+gameItemsNames[121];Комод
+gameItemsNames[122];Ковер
+gameItemsNames[123];Шкаф
+gameItemsNames[124];Стол
+gameItemsNames[125];Табурет
+gameItemsNames[126];Свечи
+strTutor[21];Нажми C и выбери любой куб\nЗатем построй 5 кубов в любом месте (правая кнопка мыши)
+strTutor[22];Молодец! Теперь разрушь 5 любых кубов (левая кнопка мыши)
+txts_bonus;Бонус
+instal_android_many;Установи игру на телефон  оставь хороший отзыв и поставь  5 звезд.Введи свою почту от google.play и получи {0} монет.
+instal_android;1.Установи DEADZONE на телефон.
+star_otziv;2.Оставь хороший отзыв и поставь 5 звезд
+txt_frendsss;3.Расскажи друзьям
+award_android;Награда
+ta_bonus;Забрать бонус
+enter_android;ВВЕДИТЕ GMAIL GOOGLE.PLAY
+gmail_android;введите почту от гугл плей для потверждения об устаноки игры 
+zombie_stalker;Зомби Сталкер
+zombie_knight;Зомби Рыцарь
+jet_soldiers;Реактивный солдат 
+helicopter;Верталет
+easy_apc;Легкий Бтр
+jumper;Джампер
+pusher;Пушер
+computer_c;Компьютер
+computer_stailish;СТильный Компьютер
+bfg_9000;бфг9000
+revolver_r;Револьвер
+pca_pca;ППШ
+knight_skin;Рыцарь
+helmet_knight;Шлем
+shield_knight;Щит
+gameItemsNames[127];Джип
+gameItemsNames[128];Ренегат
+gameItemsNames[129];Робот 0x1
+gameItemsNames[130];Робот 0x2
+gameItemsNames[131];Робот 0x3
+gameItemsNames[132];Робот 0x4
+gameItemsNames[133];Робот-Босс 0x5
+gameItemsNames[134];Легкий БТР
+gameItemsNames[135];Вертолет
+gameItemsNames[136];Зомби рыцарь
+gameItemsNames[137];Реактивный солдат
+gameItemsNames[138];Лодка
+weaponNames[32];Револьвер
+weaponNames[33];ППШ
+weaponNames[34];БФГ9000
+clothesName[68];Космо-шлем
+clothesName[69];Шлем
+clothesName[70];Щит
+monsterName[7];Робот 0x1
+monsterName[8];Робот 0x2
+monsterName[9];Робот 0x3
+monsterName[10];Робот 0x4
+monsterName[11];Робот-Босс 0x5
+monsterName[12];Агент
+monsterName[13];Сталкер
+monsterName[14];Рыцарь
+monsterName[15];Ракетный солдат
+he_saved;спас
+you_saved;Вы спасли
+he_saved_you;Вас спас
+headshot;ХЭДШОТ
+offer_title;Акция
+you_infected;Вы заразили
+sale_title;Распродажа
+offer_open_shop;В магазин
+offer_open_bank;В банк
+howto_tab;TAB - очки игроков
+you_have_flag;У вас вражеский флаг! Отнесите его на свою базу!
+your_flag_captured;Ваш флаг украден! Верните его на базу!
+flag_has_been_captured;успешно захватывают флаг!
+flag_color_name[0];"Красный"
+flag_color_name[1];"Синий"
+flag_color_name[2];"Зелёный"
+flag_color_name[3];"Золотой"
+takes_flag;взял
+dropped_flag;бросил
+flag;флаг
+BCS_Score;Счёт
+cant_take_flag_no_players;Вы НЕ МОЖЕТЕ взять флаг, так как в этой команде нет игроков
+you_returned_flag;Вы вернули флаг на базу
+your_team_is;Ваша команда - 
+need_level;Нужен {0} уровень
+Unlock;Разблокировать за
+jumper_options;Настройка джампера
+jumper_options_height;Сила:
+mapCanBreak1;Без разрушений
+buildinMapName[28];"Арена Sontar"
+buildinMapName[29];"Мясной куб 2"
+buildinMapName[30];"Город алого заката" 
+buildinMapName[102];"Древоцентр"
+buildinMapName[103];"Мертвый город"
+weaponNames[35];SVD9000
+weaponNames[36];FreezeGun
+gameItemsNames[139];Доска
+gameItemsNames[140];Дверь офисная
+gameItemsNames[141];Забор
+gameItemsNames[142];Сетка
+gameItemsNames[143];Кондей
+gameItemsNames[144];Светофор
+gameItemsNames[145];Светофор пешеходный
+gameItemsNames[146];Тарелка
+gameItemsNames[147];Телефон
+gameItemsNames[148];Фонарь
+gameItemsNames[149];Алтарь
+gameItemsNames[150];Забор
+gameItemsNames[151];Костер
+gameItemsNames[152];Пугало
+gameItemsNames[153];Фонарь тыква
+weaponNames[37];Ломик
+weaponNames[38];Дубинка
+weaponNames[39];MP5
+weaponNames[40];UMP
+DeviceTypes[4];Пушки
+gameItemsNames[154];Пушка
+gameItemsNames[155];Ракетница 
+weaponNames[41];UMP SPEC
+weaponNames[42];Катана
+weaponNames[43];Топор
+clothesName[71];Мечи
+skinName[15];Уэйд
+weaponNames[44];Шотган
+weaponNames[45];SG553
+weaponNames[46];Kriss
+weaponNames[47];AA12
+weaponNames[48];PP19
+weaponNames[49];Шмайсер
+weaponNames[50];Bargun
+weaponNames[51];MG42
+weaponNames[52];SMK2
+weaponNames[53];HK416
+weaponNames[54];MGL
+weaponNames[55];TMP
+gameItemsNames[156];Dead Мороз
+need_prew_upgrade;Нужно разблокировать предыдушее оружие
+unlock;Разблокировать
+weaponNames[56];Арбалет
+weaponNames[57];Carbon Extra
+gameItemsNames[157];Танк
+ui_buy_for;Купить все за {0}
+gameItemsNames[158];Двухярусная кровать
+gameItemsNames[159];Кровать
+gameItemsNames[160];Стул
+gameItemsNames[161];Стол
+gameItemsNames[162];Барикада
+gameItemsNames[163];Мишень
+gameItemsNames[164];Шкафчик
+gameItemsNames[165];Тумба
+gameItemsNames[166];Бревно
+gameItemsNames[167];Турник
+gameItemsNames[168];Танк Синий
+gameItemsNames[169];Танк Красный
+gameItemsNames[170];Самолет
+weaponNames[58];Asval
+weaponNames[59];Jackhammer
+weaponNames[60];M700
+newMapTypeName[6];Пустыня
+newMapTypeName[7];Зима
+newMapTypeName[8];Болота Нордрассила
+gameItemsNames[171];Фонарь
+gameItemsNames[172];Тройной фонарь
+gameItemsNames[173];Корлевская кровать
+gameItemsNames[174];Кровать
+gameItemsNames[175];Шкаф
+gameItemsNames[176];Стул
+specItemsName[9];Фонарик
+specItemsName[10];Антиграв
+MissionType[7];Найти выход за время
+weaponNames[61];fn57
+weaponNames[62];m249
+weaponNames[63];Гаус-пушка
+weaponNames[64];Рельса
+quit_yesno;Уверены что хотите выйти?
+newMapTypeName[9];Космос
+pack;Набор
+money1;Баксы
+money2;Золотые монеты
+gameItemsNames[177];Скаут
+RankName[46];Кубезумец
+RankName[47];Демон
+RankName[48];Лорд-Демон
+RankName[49];Маршал-Демон
+weaponNames[65];Кольт
+gameItemsNames[178];Кухня 1
+gameItemsNames[179];Кухня 2
+gameItemsNames[180];Кухня 3
+gameItemsNames[181];Кухня 4
+gameItemsNames[182];Кухня 5 
+gameItemsNames[183];Холодильник
+skinName[16];Кэп
+clothesName[72];Шлем Кепа
+clothesName[73];Пояс Кепа
+clothesName[74];Наплечники Кепа
+weaponNames[66];KBZP100
+weaponNames[67];KBZS200
+weaponNames[68];KBZC500
+weaponNames[69];AWP
+weaponNames[70];Винторез
