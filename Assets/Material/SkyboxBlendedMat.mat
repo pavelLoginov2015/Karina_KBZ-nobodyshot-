@@ -73,7 +73,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AtmosphereThickness: 0.52
-    - _Blend: 0
+    - _Blend: 1
     - _Exposure: 0.93
     - _SunDisk: 2
     - _SunSize: 0.699
