@@ -713,7 +713,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 82d180e4a17bb7e808cc9d64e68b930e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  authPlatform: 1
+  authPlatform: 5
   _platform: 0
   phpServer_client: https://playme24.ru/cub2now/client/
   phpServer_Vk: https://playme24.ru/kbz_old/vk/
@@ -722,7 +722,7 @@ MonoBehaviour:
   assetPath: https://playme24.ru/kbz_old/maps/
   _moneyIconTx: {fileID: 2800000, guid: 069bcbeed84821947a1b56d3fd4bc221, type: 3}
   _moneyName: "\u0420\u0443\u0431"
-  version: 55
+  version: 54
   _moneyValue: 0
   po: {fileID: 0}
 --- !u!157 &44
@@ -2332,11 +2332,11 @@ MonoBehaviour:
     DeltaShot: 0.5
     Damage:
     - 60
-    - 64
-    - 67
-    - 71
-    - 74
-    - 78
+    - 66
+    - 72
+    - 80
+    - 88
+    - 96
     Accuracy:
     - 0
     Distance: 2
@@ -2375,11 +2375,11 @@ MonoBehaviour:
     - 0.3
     DeltaShot: 0.3
     Damage:
-    - 35
-    - 38
+    - 30
+    - 33
+    - 36
     - 40
-    - 43
-    - 46
+    - 44
     - 48
     Accuracy:
     - 0.25
@@ -2426,12 +2426,12 @@ MonoBehaviour:
     - 0.4
     DeltaShot: 0.6666667
     Damage:
-    - 80
-    - 85
     - 90
-    - 94
     - 99
-    - 104
+    - 108
+    - 118
+    - 130
+    - 144
     Accuracy:
     - 5
     - 4.5
@@ -2445,7 +2445,7 @@ MonoBehaviour:
     - {fileID: 2800000, guid: 79efd9b1cb436f343bdaf18dfe5dcf1a, type: 3}
     - {fileID: 2800000, guid: b1678a450b48f0149884ff24e318a559, type: 3}
     fatalDistance: 8
-    accuarcy: 5
+    accuarcy: 2.5
     weaponGroup: 2
     hidden: 0
     needHealthLevel: 0
@@ -2477,12 +2477,12 @@ MonoBehaviour:
     - 0.3
     DeltaShot: 0.5
     Damage:
-    - 130
-    - 135
-    - 140
+    - 120
+    - 132
     - 145
-    - 150
-    - 155
+    - 160
+    - 176
+    - 192
     Accuracy:
     - 5
     - 4.5
@@ -2495,8 +2495,8 @@ MonoBehaviour:
     aimTex:
     - {fileID: 2800000, guid: 79efd9b1cb436f343bdaf18dfe5dcf1a, type: 3}
     - {fileID: 2800000, guid: b1678a450b48f0149884ff24e318a559, type: 3}
-    fatalDistance: 8
-    accuarcy: 5
+    fatalDistance: 10
+    accuarcy: 2.5
     weaponGroup: 2
     hidden: 0
     needHealthLevel: 1
@@ -2529,11 +2529,11 @@ MonoBehaviour:
     DeltaShot: 0.12
     Damage:
     - 30
-    - 32
-    - 34
-    - 35
-    - 37
-    - 39
+    - 33
+    - 36
+    - 40
+    - 44
+    - 48
     Accuracy:
     - 2
     - 1.8
@@ -2579,12 +2579,12 @@ MonoBehaviour:
     - 0.06
     DeltaShot: 0.1
     Damage:
-    - 52
+    - 45
     - 50
-    - 52
-    - 54
-    - 56
-    - 58
+    - 55
+    - 60
+    - 66
+    - 72
     Accuracy:
     - 1.5
     - 1.35
@@ -2630,12 +2630,12 @@ MonoBehaviour:
     - 0.6
     DeltaShot: 1
     Damage:
-    - 200
-    - 212
-    - 224
-    - 236
-    - 248
-    - 260
+    - 240
+    - 264
+    - 290
+    - 320
+    - 352
+    - 390
     Accuracy:
     - 0
     - 0
@@ -2681,12 +2681,12 @@ MonoBehaviour:
     - 0.6
     DeltaShot: 1
     Damage:
-    - 300
-    - 318
-    - 336
-    - 354
-    - 372
-    - 390
+    - 360
+    - 396
+    - 436
+    - 480
+    - 528
+    - 580
     Accuracy:
     - 0
     - 0
@@ -2728,11 +2728,11 @@ MonoBehaviour:
     DeltaShot: 0.5
     Damage:
     - 120
-    - 127
-    - 134
-    - 142
-    - 149
-    - 156
+    - 132
+    - 145
+    - 160
+    - 176
+    - 192
     Accuracy:
     - 0
     Distance: 3
@@ -2767,11 +2767,11 @@ MonoBehaviour:
     DeltaShot: 0.5
     Damage:
     - 90
-    - 95
-    - 101
-    - 106
-    - 112
-    - 117
+    - 99
+    - 108
+    - 118
+    - 130
+    - 144
     Accuracy:
     - 0
     Distance: 2.5
@@ -3805,24 +3805,24 @@ MonoBehaviour:
     DeltaShot: 0.5
     Damage:
     - 180
-    - 191
-    - 202
-    - 212
-    - 223
-    - 234
+    - 198
+    - 218
+    - 240
+    - 264
+    - 290
     Accuracy:
-    - 5
-    - 4.5
-    - 4
-    - 3.5
-    - 3
     - 2.5
+    - 2.25
+    - 2.125
+    - 2.0625
+    - 2.03125
+    - 2
     Distance: 1000
     Type: 1
     aimTex:
     - {fileID: 2800000, guid: 79efd9b1cb436f343bdaf18dfe5dcf1a, type: 3}
     - {fileID: 2800000, guid: b1678a450b48f0149884ff24e318a559, type: 3}
-    fatalDistance: 12
+    fatalDistance: 20
     accuarcy: 5
     weaponGroup: 2
     hidden: 0
@@ -5634,12 +5634,12 @@ MonoBehaviour:
     - 0.3
     DeltaShot: 0.5
     Damage:
-    - 180
-    - 191
-    - 202
-    - 212
-    - 223
-    - 234
+    - 240
+    - 264
+    - 290
+    - 320
+    - 352
+    - 390
     Accuracy:
     - 5
     - 4.5
@@ -5652,8 +5652,8 @@ MonoBehaviour:
     aimTex:
     - {fileID: 2800000, guid: 79efd9b1cb436f343bdaf18dfe5dcf1a, type: 3}
     - {fileID: 2800000, guid: b1678a450b48f0149884ff24e318a559, type: 3}
-    fatalDistance: 12
-    accuarcy: 5
+    fatalDistance: 20
+    accuarcy: 2.5
     weaponGroup: 2
     hidden: 0
     needHealthLevel: 4

@@ -4730,14 +4730,14 @@ Rigidbody:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1651655636789362}
   serializedVersion: 2
-  m_Mass: 1
+  m_Mass: 5
   m_Drag: 0
   m_AngularDrag: 0.05
   m_UseGravity: 0
   m_IsKinematic: 0
-  m_Interpolate: 0
+  m_Interpolate: 1
   m_Constraints: 0
-  m_CollisionDetection: 0
+  m_CollisionDetection: 2
 --- !u!114 &114037428617856322
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4750,7 +4750,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e6c1b84e7e9a52613f75d2fdf0b2644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flySpeed: 15
+  flySpeed: 30
   explosion: {fileID: 1333669047126458, guid: f280ada85a3c4024ca6fec5be1bb04cd, type: 3}
   isElectro: 0
   explosionRadius: 8
@@ -4767,19 +4767,19 @@ Light:
   m_Type: 2
   m_Shape: 0
   m_Color: {r: 0.034482718, g: 1, b: 0, a: 1}
-  m_Intensity: 3.88
-  m_Range: 14.2
+  m_Intensity: 2
+  m_Range: 48
   m_SpotAngle: 30
   m_InnerSpotAngle: 21.80208
   m_CookieSize: 10
   m_Shadows:
-    m_Type: 0
-    m_Resolution: -1
+    m_Type: 1
+    m_Resolution: 0
     m_CustomResolution: -1
     m_Strength: 1
-    m_Bias: 0.05
-    m_NormalBias: 0.4
-    m_NearPlane: 0.2
+    m_Bias: 0.001
+    m_NormalBias: 0
+    m_NearPlane: 0.1
     m_CullingMatrixOverride:
       e00: 1
       e01: 0
@@ -4806,7 +4806,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 1
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 0, y: 0}
   m_BounceIntensity: 0

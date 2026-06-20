@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: CubesMat
-  m_Shader: {fileID: 4800000, guid: 89419006f56acec468881118f5b68a8b, type: 3}
+  m_Shader: {fileID: 4800000, guid: 60d2d7b59bb9bac459190f00ce5f3b1d, type: 3}
   m_ShaderKeywords: GEOM_TYPE_MESH _EMISSION _WINDQUALITY_NONE
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 1
