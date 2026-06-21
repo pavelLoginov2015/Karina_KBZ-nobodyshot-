@@ -464,7 +464,8 @@ public class PlayerScript : Pawn,IPunObservable
 	private Vector3 pushVelocity = Vector3.zero;
 	public bool isZombieRe;
 	public int zombieType;
-	public int availableCubes
+
+    public int availableCubes
 	{
 		get
 		{
@@ -2419,7 +2420,7 @@ public class PlayerScript : Pawn,IPunObservable
                 this.isCracking = false;
                 Kube.OH.crackCube.SetActive(false);
             }
-            if (KubeInput.GetKeyDown(KeyCode.R))
+            if (KubeInput.GetKeyDown(KeyCode.R) && !rechargingWeapon)
             {
                 this.ReloadGun();
             }
@@ -4015,40 +4016,32 @@ print(Kube.lockCursor.ToString());
 		}
 	}
 
-	public void GetNewWeapon(int weaponType, int bulletsAmount)
-	{
-		UnityEngine.Object.Instantiate(Kube.ASS4.soundGetItem, base.transform.position, base.transform.rotation);
-		for (int i = 0; i < Kube.IS.bulletParams.Length; i++)
-		{
-			if (i == Kube.IS.weaponParams[weaponType].BulletsType)
-			{
-				Bullets bullets;
-				Bullets obj = (bullets = this.bullets);
-				int index;
-				int index2 = (index = i);
-				index = bullets[index];
-				obj[index2] = index + bulletsAmount;
-			}
-			this.bullets[i] = Math.Min(this.bullets[i], Kube.IS.bulletParams[i].initialAmount);
-		}
-		_weaponPickup[weaponType] = 1;
-		for (int j = 0; j < 10; j++)
-		{
-			if (Kube.GPS.fastInventarWeapon[j].Type == 4 && Kube.GPS.fastInventarWeapon[j].Num == weaponType)
-			{
-				return;
-			}
-		}
-		int weaponGroup = (int)Kube.IS.weaponParams[weaponType].weaponGroup;
-		if (Kube.GPS.fastInventarWeapon[weaponGroup].Type == -1)
-		{
-			Kube.GPS.fastInventarWeapon[weaponGroup].Type = 4;
-			Kube.GPS.fastInventarWeapon[weaponGroup].Num = weaponType;
-			Kube.IS.ChoseFastInventar(weaponGroup);
-		}
-	}
+    public void GetNewWeapon(int weaponType, int bulletsAmount)
+    {
+        UnityEngine.Object.Instantiate(Kube.ASS4.soundGetItem, transform.position, transform.rotation);
 
-	public void RestoreBullets(string bulletsToRestore)
+        int bulletType = Kube.IS.weaponParams[weaponType].BulletsType;
+        bullets[bulletType] += bulletsAmount;
+
+        _weaponPickup[weaponType] = 1;
+
+        for (int j = 0; j < 10; j++)
+        {
+            if (Kube.GPS.fastInventarWeapon[j].Type == 4 &&
+                Kube.GPS.fastInventarWeapon[j].Num == weaponType)
+                return;
+        }
+
+        int weaponGroup = (int)Kube.IS.weaponParams[weaponType].weaponGroup;
+        if (Kube.GPS.fastInventarWeapon[weaponGroup].Type == -1)
+        {
+            Kube.GPS.fastInventarWeapon[weaponGroup].Type = 4;
+            Kube.GPS.fastInventarWeapon[weaponGroup].Num = weaponType;
+            Kube.IS.ChoseFastInventar(weaponGroup);
+        }
+    }
+
+    public void RestoreBullets(string bulletsToRestore)
 	{
 		int[] array = new int[4];
 		array[0] += Kube.OH.DecodeServerCode(bulletsToRestore.Substring(0, 2));
