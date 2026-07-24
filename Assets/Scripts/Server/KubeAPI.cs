@@ -285,6 +285,7 @@ public class KubeAPI : MonoBehaviour
 		else
 		{
           JsonData jsonData = JsonMapper.ToObject(newWWW.text);
+	      Debug.Log(newWWW.text);
 		  secret_token = jsonData["sq"]["secretToken"].ToString();
 		  _serverId = TryConvert.ToInt32(jsonData["sq"]["id"].ToString());
 		  if ((bool)go)
