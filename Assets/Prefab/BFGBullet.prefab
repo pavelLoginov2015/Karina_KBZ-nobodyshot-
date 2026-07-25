@@ -4752,10 +4752,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5e6c1b84e7e9a52613f75d2fdf0b2644, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  flySpeed: 20
+  flySpeed: 10
   explosion: {fileID: 1838800999326210, guid: 93687c405e65f4f468bc06fe3786ba26, type: 3}
   isElectro: 0
-  explosionRadius: 7.5
+  explosionRadius: 8
   rocketView: {fileID: 0}
 --- !u!114 &114627906171957259
 MonoBehaviour:
@@ -4792,7 +4792,7 @@ Light:
   m_CookieSize: 10
   m_Shadows:
     m_Type: 1
-    m_Resolution: 0
+    m_Resolution: 1
     m_CustomResolution: -1
     m_Strength: 1
     m_Bias: 0.001

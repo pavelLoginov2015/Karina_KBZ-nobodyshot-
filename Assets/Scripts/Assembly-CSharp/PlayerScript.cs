@@ -2368,8 +2368,8 @@ public class PlayerScript : Pawn,IPunObservable
                                 this.isCracking = true;
                                 this.crackingPos = vector6;
                                 this.crackingStartTime = Time.time;
-                                this.crackingTime = Mathf.Max(0.15f, 0.4f);
-                                Kube.OH.crackCube.SetActive(true);
+                                this.crackingTime = Mathf.Max(0.1f, 0.2f);
+                                Kube.OH.crackCube.SetActive(true); 
                                 Kube.OH.crackCube.transform.position = this.crackingPos;
                             }
                             if (this.isCracking)
@@ -2378,7 +2378,7 @@ public class PlayerScript : Pawn,IPunObservable
                                 {
                                     this.crackingPos = vector6;
                                     this.crackingStartTime = Time.time;
-                                    this.crackingTime = Mathf.Max(0.15f, 0.4f);
+                                    this.crackingTime = Mathf.Max(0.1f, 0.2f);
                                     Kube.OH.crackCube.transform.position = this.crackingPos;
                                 }
                                 if ((Time.time - this.crackingStartTime) / this.crackingTime >= 1f)

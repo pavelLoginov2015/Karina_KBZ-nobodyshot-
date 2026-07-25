@@ -813,7 +813,7 @@ public class BlockScript : MonoBehaviour
         this._ql = QualitySettings.GetQualityLevel();
         this.nowSun = new Color(this.WHS.sunInt * this.WHS.sunR + (1f - this.WHS.sunInt) * this.WHS.moonR, this.WHS.sunInt * this.WHS.sunG + (1f - this.WHS.sunInt) * this.WHS.moonG, this.WHS.sunInt * this.WHS.sunB + (1f - this.WHS.sunInt) * this.WHS.moonB, 255f);
         int tickCount = Environment.TickCount;
-        /*for (int i = 0; i < 8; i++)
+        for (int i = 0; i < 8; i++)
         {
             MeshFilter meshFilter = this.meshFiltersSolid[i];
             if (meshFilter != null)
@@ -925,7 +925,9 @@ public class BlockScript : MonoBehaviour
                 array[l + 5] = new Color32(r, g, b2, byte.MaxValue);
             }
             this.meshFilterWater.sharedMesh.colors32 = array;
-        }*/
+        }
+
+        /*
         for (int i = 0; i < 8; i++)
         {
             MeshFilter meshFilter = this.meshFiltersSolid[i];
@@ -987,6 +989,7 @@ public class BlockScript : MonoBehaviour
                 meshFilter.sharedMesh.colors32 = array;
             }
         }
+        */
         int tickCount2 = Environment.TickCount;
     }
     void LateUpdate()

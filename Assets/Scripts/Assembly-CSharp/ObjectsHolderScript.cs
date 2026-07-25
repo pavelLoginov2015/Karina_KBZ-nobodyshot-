@@ -664,7 +664,7 @@ public class ObjectsHolderScript : MonoBehaviourPunCallbacks
 		Application.runInBackground = true;
 		if (!WebPlatform)
 		{
-			Application.targetFrameRate = 144;
+			Application.targetFrameRate = 240;
 		}
 else{
 Application.targetFrameRate = 60;
