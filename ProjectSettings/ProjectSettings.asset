@@ -910,7 +910,14 @@ PlayerSettings:
   XboxOneOverrideIdentityName: 
   XboxOneOverrideIdentityPublisher: 
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    Analytics: 1
+    Build: 0
+    Collab: 0
+    Game Performance: 0
+    Purchasing: 0
+    UDP: 0
+    Unity Ads: 0
   luminIcon:
     m_Name: 
     m_ModelFolderPath: 
@@ -924,11 +931,11 @@ PlayerSettings:
     m_VersionName: 
   apiCompatibilityLevel: 3
   activeInputHandler: 2
-  cloudProjectId: 5ee8dab6-5bc7-4197-95e7-40e5ef3f8c15
+  cloudProjectId: 24fe968a-4b9d-4f85-b91e-090c757fedb2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: DefenderCraft
-  organizationId: nobodyshot
+  projectName: CraftDefenders
+  organizationId: warcat_br
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 1
   virtualTexturingSupportEnabled: 0

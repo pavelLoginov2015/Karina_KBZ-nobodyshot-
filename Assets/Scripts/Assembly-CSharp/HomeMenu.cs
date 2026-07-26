@@ -60,7 +60,7 @@ public class HomeMenu : MonoBehaviour
 		}
         //OnlineManager.instance.ConnectUsingSettings();
 		Kube.RM.require("Assets2");
-		version.text = "2.5.0 O51 R" + Kube.OH.build;
+		version.text = "2.6.1 Release " + Kube.OH.build;
 		if (!viral_dialog)
 		{
 			viral_dialog = Cub2Menu.Find<ViralDialog>("dialog_viral");
